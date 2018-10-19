@@ -1,0 +1,339 @@
+Store,City,State/Province,Longitude,Latitude,Sales
+Kmart,San Jose,CA,-121.83,37.32,$4.00
+Sears,Palm Desert,CA,-116.39,33.72,$0.95
+Kmart,Redlands,CA,-117.21,34.07,$1.00
+Sears,Santa Ana,CA,-117.88,33.72,$0.00
+Kmart,Vista,CA,-117.23,33.22,$0.70
+Kmart,Fresno,CA,-119.88,36.83,$1.87
+Kmart,Hemet,CA,-116.98,33.75,$2.64
+Sears,San Diego,CA,-116.97,32.57,$3.43
+Kmart,San Diego,CA,-117.23,32.73,$4.00
+Sears,Salinas,CA,-121.6,36.69,$1.04
+Sears,Denver,CO,-105.02,39.76,$2.21
+Sears,Meriden,CT,-72.81,41.51,$4.00
+Sears,Seminole,FL,-82.76,27.87,$1.26
+Sears,Vero Beach,FL,-80.39,27.62,$4.00
+Kmart,Tampa,FL,-82.63,28.07,$1.89
+Sears,Lawrenceville,GA,-84.02,33.97,$1.98
+Kmart,Normal,IL,-88.96,40.51,$0.17
+Kmart,Homewood,IL,-87.64,41.56,$1.53
+Sears,Indianapolis,IN,-86.26,39.91,$2.16
+Kmart,Crown Point,IN,-87.36,41.43,$4.00
+Kmart,Covington,LA,-90.08,30.44,$3.76
+Sears,Midland,MI,-84.25,43.66,$4.00
+Sears,Kansas City,MO,-94.61,38.89,$1.26
+Sears,Charlotte,NC,-80.87,35.09,$4.00
+Kmart,York,NE,-97.6,40.82,$4.00
+Kmart,Tilton,NH,-71.56,43.46,$1.80
+Kmart,Secaucus,NJ,-74.05,40.79,$4.00
+Sears,Delran,NJ,-74.94,40.02,$0.52
+Sears,Farmington,NM,-108.15,36.76,$2.31
+Kmart,Las Vegas,NV,-115.29,36.29,$3.02
+Kmart,Las Vegas,NV,-115.24,36.06,$0.82
+Sears,New York,NY,-73.99,40.72,$0.05
+Sears,East Northport,NY,-73.32,40.84,$4.00
+Sears,Lake Grove,NY,-73.13,40.87,$1.55
+Sears,Fishkill,NY,-73.89,41.53,$0.11
+Kmart,Massillon,OH,-81.52,40.77,$1.62
+Kmart,Portland,OR,-122.62,45.49,$2.81
+Kmart,Pittsburgh,PA,-80.18,40.45,$0.24
+Kmart,Memphis,TN,-89.84,35.07,$0.02
+Kmart,Burleson,TX,-97.35,32.52,$2.50
+Kmart,Houston,TX,-95.37,29.76,$1.63
+Kmart,Park City,UT,-111.54,40.72,$1.71
+Kmart,Vancouver,WA,-122.48,45.62,$3.83
+Kmart,Delavan,WI,-88.61,42.63,$4.00
+Sears,Huntsville,AL,-86.6,34.74,$4.00
+Kmart,Lady Lake,FL,-81.94,28.93,$2.70
+Kmart,Lakeland,FL,-81.96,27.98,$1.20
+Sears,Tampa,FL,-82.5,27.89,$4.00
+Sears,Atlanta,GA,-84.37,33.83,$1.51
+Sears,Columbus,GA,-84.95,32.54,$1.05
+Sears,Lawrenceville,GA,-84.01,33.9,$0.16
+Sears,Boise,ID,-116.28,43.61,$3.13
+Kmart,Lafayette,IN,-86.84,40.41,$3.78
+Kmart,Lexington,KY,-84.55,37.98,$4.00
+Kmart,Warren,MI,-83.05,42.51,$4.00
+Sears,Bloomington,MN,-93.24,44.86,$3.32
+Sears,Springfield,MO,-93.27,37.16,$2.33
+Kmart,Allentown,PA,-75.49,40.56,$4.00
+Sears,Lancaster,PA,-76.34,40.04,$3.02
+Sears,Moosic,PA,-75.68,41.36,$2.79
+Sears,Wilkes-Barre,PA,-75.86,41.24,$2.94
+Sears,Collierville,TN,-89.73,35.05,$1.74
+Kmart,League City,TX,-95.1,29.51,$2.59
+Sears,McKinney,TX,-96.71,33.2,$3.03
+Sears,Alexandria,VA,-77.08,38.81,$3.31
+Sears,Alexandria,VA,-77.08,38.75,$0.47
+Kmart,Virginia Beach,VA,-76.19,36.88,$3.24
+Kmart,Yorktown,VA,-76.46,37.15,$2.43
+Kmart,Sun City,AZ,-112.28,33.64,$4.00
+Kmart,Tucson,AZ,-110.94,32.22,$4.00
+Kmart,Bakersfield,CA,-118.95,35.4,$0.18
+Sears,Bakersfield,CA,-119.05,35.3,$0.70
+Kmart,Buena Park,CA,-118.03,33.83,$4.00
+Sears,Chino,CA,-117.67,34.02,$2.65
+Kmart,Elk Grove,CA,-121.41,38.42,$1.41
+Kmart,Hayward,CA,-122.08,37.68,$2.07
+Kmart,Lemoore,CA,-119.78,36.31,$4.00
+Kmart,Modesto,CA,-121.02,37.65,$2.41
+Sears,Moorpark,CA,-118.84,34.3,$0.71
+Sears,Oceanside,CA,-117.33,33.18,$0.44
+Sears,Palmdale,CA,-118.05,34.56,$0.27
+Kmart,Pomona,CA,-117.76,34.03,$4.00
+Kmart,San Jose,CA,-121.81,37.33,$2.54
+Sears,Aurora,CO,-104.85,39.66,$4.00
+Kmart,Bolingbrook,IL,-88.04,41.72,$0.07
+Kmart,Lombard,IL,-88.01,41.91,$4.00
+Kmart,Albuquerque,NM,-106.64,35.09,$4.00
+Sears,Henderson,NV,-115.12,35.94,$0.09
+Kmart,Houston,TX,-95.57,29.65,$4.00
+Kmart,Hudson,WI,-92.72,44.96,$2.70
+Kmart,San Diego,CA,-117.13,32.72,$4.00
+Sears,Eagle River,AK,-149.57,61.33,$0.55
+Sears,Huntsville,AL,-86.59,34.77,$4.00
+Sears,Phoenix,AZ,-112.06,33.52,$0.29
+Kmart,Anaheim Hills,CA,-117.74,33.86,$2.72
+Sears,Atascadero,CA,-120.7,35.53,$0.09
+Sears,Cypress,CA,-118.03,33.82,$1.06
+Sears,Fontana,CA,-117.44,34.05,$4.00
+Kmart,Fowler,CA,-119.68,36.63,$2.98
+Sears,Fresno,CA,-119.87,36.79,$2.53
+Kmart,Garden Grove,CA,-117.97,33.77,$3.17
+Sears,Long Beach,CA,-118.14,33.78,$1.63
+Kmart,Madera,CA,-120.08,36.95,$2.95
+Sears,Norwalk,CA,-118.05,33.9,$4.00
+Sears,Sacramento,CA,-121.5,38.58,$2.70
+Sears,Sacramento,CA,-121.38,38.58,$4.00
+Kmart,Saugus,CA,-118.51,34.44,$4.00
+Sears,Temecula,CA,-117.15,33.53,$2.48
+Sears,Visalia,CA,-119.31,36.32,$1.41
+Sears,Visalia,CA,-119.33,36.3,$4.00
+Sears,Brighton,CO,-104.82,39.99,$4.00
+Kmart,Fort Myers,FL,-81.9,26.56,$1.09
+Sears,Lake Worth,FL,-80.05,26.62,$0.34
+Sears,Seattle,WA,-122.33,47.6,$2.36
+Sears,Indianapolis,IN,-86.08,39.7,$0.13
+Sears,Newton,MA,-71.19,42.36,$4.00
+Kmart,St. Paul,MN,-93.14,44.94,$0.28
+Kmart,Cary,NC,-78.8,35.8,$3.06
+Sears,Fayetteville,NC,-78.94,35.04,$3.45
+Sears,Henderson,NV,-115.04,36.07,$0.94
+Sears,Henderson,NV,-115.06,36.02,$4.00
+Sears,Minden,NV,-119.78,38.96,$1.01
+Sears,Riverhead,NY,-72.71,40.92,$3.16
+Kmart,Lawton,OK,-98.44,34.62,$3.80
+Sears,Beaverton,OR,-122.77,45.49,$2.71
+Kmart,Dallas,OR,-123.31,44.93,$4.00
+Kmart,King of Prussia,PA,-75.39,40.09,$1.83
+Sears,Franklin,TN,-86.8,35.96,$3.10
+Kmart,Knoxville,TN,-83.94,35.95,$4.00
+Kmart,Tomball,TX,-95.63,30.08,$4.00
+Sears,Airway Heights,WA,-117.56,47.64,$4.00
+Kmart,Vancouver,WA,-122.55,45.62,$4.00
+Sears,Carlsbad,CA,-117.31,33.1,$0.02
+Sears,San Diego,CA,-117.16,32.71,$2.06
+Sears,Santa Clarita,CA,-118.52,34.37,$4.00
+Kmart,Stockton,CA,-121.22,37.91,$2.55
+Sears,Santa Maria,CA,-120.43,34.92,$4.00
+Kmart,Palm Desert,CA,-116.36,33.78,$1.75
+Sears,Carmichael,CA,-121.33,38.63,$0.96
+Sears,Temecula,CA,-117.1,33.51,$2.90
+Kmart,New Milford,CT,-73.41,41.57,$3.45
+Sears,Brooksville,FL,-82.51,28.53,$2.92
+Sears,Evans,GA,-82.12,33.53,$1.60
+Kmart,Macon,GA,-83.71,32.87,$2.75
+Kmart,Chicago,IL,-87.63,41.88,$3.23
+Sears,Elkhart,IN,-85.91,41.63,$4.00
+Kmart,Baton Rouge,LA,-91.12,30.43,$1.70
+Sears,East Longmeadow,MA,-72.51,42.07,$0.98
+Kmart,St. Louis Park,MN,-93.33,44.95,$0.55
+Kmart,Des Peres,MO,-90.45,38.6,$4.00
+Kmart,Reno,NV,-119.78,39.56,$4.00
+Kmart,Cleveland,OH,-81.61,41.51,$4.00
+Kmart,Lancaster,PA,-76.32,40.08,$0.45
+Kmart,Cleveland,TN,-84.88,35.16,$4.00
+Kmart,Arlington,TX,-97.12,32.72,$3.87
+Sears,Oak Creek,WI,-87.94,42.87,$3.28
+Kmart,Milwaukee,WI,-88,43.15,$1.89
+Sears,San Francisco,CA,-122.43,37.8,$1.39
+Sears,Lathrop,CA,-121.29,37.82,$4.00
+Sears,Coachella,CA,-116.22,33.7,$2.84
+Sears,Rialto,CA,-117.37,34.14,$3.07
+Sears,El Dorado Hills,CA,-121.08,38.71,$0.58
+Sears,Riverside,CA,-117.47,33.9,$3.58
+Kmart,South San Francisco,CA,-122.45,37.66,$0.25
+Sears,West Covina,CA,-117.91,34.04,$0.05
+Sears,Rocklin,CA,-121.29,38.8,$2.19
+Sears,Lafayette,CO,-105.1,39.99,$3.00
+Kmart,Washington,DC,-77.05,38.91,$1.37
+Sears,Casselberry,FL,-81.32,28.63,$4.00
+Sears,Fort Myers,FL,-81.86,26.6,$3.92
+Sears,Riverview,FL,-82.32,27.89,$3.80
+Sears,Commerce,GA,-83.46,34.26,$0.93
+Kmart,Alpharetta,GA,-84.36,34.08,$1.73
+Kmart,Elgin,IL,-88.34,42.09,$4.00
+Sears,Rockville,MD,-77.15,39.09,$3.15
+Kmart,Charlotte,NC,-80.81,35.03,$2.59
+Kmart,Las Vegas,NV,-115.31,36.13,$4.00
+Sears,Warren,OH,-80.74,41.22,$2.39
+Kmart,Columbus,OH,-82.96,40.15,$0.03
+Sears,Stephenville,TX,-98.24,32.2,$0.96
+Sears,Oconomowoc,WI,-88.47,43.07,$1.08
+Kmart,Athens,AL,-86.95,34.78,$0.51
+Sears,Spanish Fort,AL,-87.85,30.67,$4.00
+Sears,San Francisco,CA,-122.4,37.79,$3.12
+Kmart,Pleasant Hill,CA,-122.06,37.94,$3.70
+Kmart,Saratoga,CA,-122.03,37.26,$2.57
+Kmart,Seattle,WA,-122.34,47.61,$0.68
+Kmart,Colton,CA,-117.31,34.05,$3.27
+Sears,San Jose,CA,-121.91,37.34,$4.00
+Kmart,Glendale,AZ,-112.2,33.58,$4.00
+Sears,Alpine,CA,-116.75,32.83,$4.00
+Kmart,Denver,CO,-104.97,39.68,$4.00
+Sears,Lone Tree,CO,-104.88,39.55,$1.24
+Kmart,Fairfield,CT,-73.26,41.14,$2.69
+Kmart,McDonough,GA,-84.22,33.46,$2.18
+Sears,Boise,ID,-116.35,43.65,$0.76
+Kmart,Lyons,IL,-87.83,41.82,$2.49
+Kmart,Shreveport,LA,-93.72,32.44,$4.00
+Sears,Marlborough,MA,-71.61,42.36,$3.65
+Kmart,Bellevue,NE,-95.93,41.16,$4.00
+Kmart,North Platte,NE,-100.77,41.12,$0.22
+Sears,Nashua,NH,-71.44,42.7,$2.85
+Sears,New York,NY,-73.98,40.76,$1.51
+Kmart,New York,NY,-74.01,40.7,$2.84
+Kmart,Northport,NY,-73.33,40.9,$1.82
+Kmart,Bayport,NY,-73.05,40.75,$4.00
+Kmart,Binghamton,NY,-75.9,42.14,$2.03
+Kmart,Niles,OH,-80.75,41.21,$0.99
+Sears,Grove City,OH,-83.04,39.88,$4.00
+Kmart,Worthington,OH,-83.02,40.11,$4.00
+Sears,Tigard,OR,-122.78,45.45,$3.24
+Sears,Wood Village,OR,-122.43,45.53,$4.00
+Kmart,Chambersburg,PA,-77.63,39.94,$0.57
+Kmart,Greensburg,PA,-79.58,40.31,$1.52
+Sears,Bryan,TX,-96.35,30.64,$1.95
+Sears,Cypress,TX,-95.69,29.97,$3.18
+Sears,Houston,TX,-95.37,29.75,$4.00
+Kmart,Rowlett,TX,-96.58,32.91,$4.00
+Sears,South Burlington,VT,-73.18,44.47,$4.00
+Sears,Seattle,WA,-122.33,47.6,$1.34
+Kmart,Seattle,WA,-122.34,47.62,$2.43
+Sears,Neenah,WI,-88.48,44.18,$1.22
+Sears,Manitowoc,WI,-87.7,44.07,$0.06
+Kmart,Barboursville,WV,-82.27,38.42,$3.20
+Sears,Compton,CA,-118.26,33.9,$3.33
+Sears,Phoenix,AZ,-112.25,33.48,$2.64
+Kmart,San Jose,CA,-121.92,37.28,$1.71
+Kmart,Mountain View,CA,-122.1,37.42,$1.16
+Kmart,San Jose,CA,-121.81,37.31,$1.73
+Sears,Oceanside,CA,-117.29,33.18,$4.00
+Sears,Littleton,CO,-105.08,39.57,$4.00
+Sears,Idaho Springs,CO,-105.5,39.74,$0.36
+Kmart,Columbus,IN,-85.95,39.2,$0.54
+Sears,Wyoming,MI,-85.72,42.86,$4.00
+Kmart,Columbia,MO,-92.33,38.95,$4.00
+Kmart,Charlotte,NC,-80.9,35.14,$0.07
+Kmart,Portsmouth,NH,-70.79,43.09,$1.03
+Sears,Shorthills,NJ,-74.36,40.74,$0.97
+Sears,East Northport,NY,-73.32,40.86,$4.00
+Kmart,Oregon City,OR,-122.58,45.32,$3.31
+Sears,Doylestown,PA,-75.13,40.32,$4.00
+Sears,Grand Prairie,TX,-96.99,32.76,$0.55
+Kmart,Cedar City,UT,-113.08,37.66,$4.00
+Sears,Cotati,CA,-122.7,38.33,$1.32
+Kmart,La Mirada,CA,-118.01,33.9,$4.00
+Sears,Los Gatos,CA,-121.98,37.23,$1.16
+Sears,Moreno Valley,CA,-117.23,33.94,$0.04
+Kmart,San Bernardino,CA,-117.28,34.06,$4.00
+Kmart,San Francisco,CA,-122.4,37.79,$4.00
+Kmart,San Leandro,CA,-122.13,37.7,$0.64
+Sears,West Sacramento,CA,-121.58,38.57,$2.61
+Kmart,Denver,CO,-104.99,39.71,$0.01
+Sears,Milford,CT,-73.04,41.24,$0.22
+Sears,Boca Raton,FL,-80.2,26.41,$3.06
+Kmart,Brandon,FL,-82.26,27.94,$0.72
+Sears,Gainesville,FL,-82.34,29.67,$1.99
+Kmart,Kendall,FL,-80.42,25.68,$1.13
+Sears,Naples,FL,-81.77,26.24,$0.98
+Kmart,Naples,FL,-81.75,26.21,$4.00
+Kmart,Winter Park,FL,-81.29,28.6,$0.23
+Sears,Cedar Rapids,IA,-91.72,41.96,$4.00
+Sears,Cedar Rapids,IA,-91.68,42.03,$4.00
+Kmart,Chicago,IL,-87.63,41.88,$4.00
+Sears,Rockford,IL,-88.98,42.31,$1.31
+Kmart,Schaumburg,IL,-88.04,42.05,$0.42
+Kmart,Vernon Hills,IL,-87.97,42.24,$0.82
+Kmart,Villa Park,IL,-87.98,41.86,$0.53
+Kmart,Noblesville,IN,-86.03,40.05,$2.38
+Kmart,Lexington,KY,-84.52,38,$3.02
+Kmart,Ruston,LA,-92.65,32.54,$4.00
+Sears,Hingham,MA,-70.9,42.18,$0.42
+Sears,Walpole,MA,-71.22,42.14,$1.95
+Sears,Grand Rapids,MI,-85.58,42.91,$0.82
+Kmart,O'Fallon,MO,-90.7,38.78,$4.00
+Sears,St. Louis,MO,-90.31,38.59,$2.65
+Kmart,Aberdeen,NC,-79.42,35.16,$0.12
+Sears,Charlotte,NC,-80.81,35.33,$4.00
+Kmart,Charlotte,NC,-80.99,35.1,$1.72
+Sears,Clayton,NC,-78.5,35.67,$2.37
+Kmart,Concord,NC,-80.71,35.37,$3.62
+Kmart,East Rutherford,NJ,-74.09,40.83,$4.00
+Kmart,Las Vegas,NV,-115.3,36.08,$4.00
+Sears,Ithaca,NY,-76.5,42.44,$2.85
+Sears,New York,NY,-73.99,40.74,$4.00
+Kmart,Schenectady,NY,-73.91,42.78,$0.11
+Sears,Edmond,OK,-97.46,35.64,$4.00
+Sears,La Grande,OR,-118.07,45.33,$3.28
+Sears,Pendleton,OR,-118.81,45.66,$1.57
+Kmart,Belle Vernon,PA,-79.84,40.14,$2.28
+Kmart,Johnstown,PA,-78.85,40.28,$0.15
+Sears,Trevose,PA,-74.96,40.14,$3.84
+Sears,Philadelphia,PA,-75.16,39.95,$2.24
+Sears,Brownsville,TX,-97.5,25.95,$2.00
+Sears,Crosby,TX,-95.06,29.89,$0.79
+Kmart,Galveston,TX,-94.83,29.27,$2.96
+Kmart,Houston,TX,-95.58,29.89,$2.29
+Kmart,Portland,TX,-97.32,27.88,$2.49
+Kmart,St. George,UT,-113.6,37.13,$2.17
+Sears,Winchester,VA,-78.13,39.19,$0.71
+Kmart,Plover,WI,-89.51,44.5,$1.67
+Kmart,Rogers,AR,-94.18,36.33,$4.00
+Kmart,Antioch,CA,-121.81,38,$0.15
+Sears,Lake Forest,CA,-117.67,33.66,$0.90
+Sears,Adelanto,CA,-117.4,34.51,$4.00
+Kmart,Ojai,CA,-119.29,34.42,$4.00
+Kmart,Wildomar,CA,-117.25,33.59,$1.56
+Sears,Buena Park,CA,-118.03,33.85,$4.00
+Sears,San Bernardino,CA,-117.28,34.17,$1.24
+Sears,Denver,CO,-104.9,39.79,$1.35
+Sears,Westminster,CO,-105.05,39.83,$0.03
+Sears,Aurora,CO,-104.77,39.76,$4.00
+Sears,Washington,DC,-77.01,38.9,$4.00
+Sears,Fort Myers,FL,-81.87,26.64,$0.04
+Kmart,Key Largo,FL,-80.44,25.09,$0.84
+Kmart,Fort Myers,FL,-81.87,26.55,$0.65
+Kmart,Sarasota,FL,-82.52,27.39,$0.93
+Sears,Suwanee,GA,-84.17,34.09,$4.00
+Sears,Clive,IA,-93.72,41.6,$0.90
+Kmart,Champaign,IL,-88.26,40.15,$3.57
+Kmart,Decatur,IL,-88.96,39.89,$0.47
+Sears,Orland Park,IL,-87.85,41.63,$2.06
+Kmart,Joliet,IL,-88.15,41.52,$2.16
+Sears,Wilmette,IL,-87.76,42.08,$1.62
+Sears,Wilmette,IL,-87.71,42.08,$4.00
+Sears,Louisville,KY,-85.67,38.14,$2.70
+Kmart,Seattle,WA,-122.33,47.62,$2.20
+Sears,Grand Island,NE,-98.38,40.92,$0.18
+Sears,Rio Grande,NJ,-74.87,39.02,$1.25
+Sears,Tuckahoe,NY,-73.83,40.95,$0.82
+Sears,Portland,OR,-122.58,45.5,$4.00
+Sears,Beaverton,OR,-122.79,45.46,$1.38
+Sears,Warrenton,OR,-123.9,46.16,$4.00
+Sears,Florence,SC,-79.81,34.19,$3.42
+Kmart,Gaffney,SC,-81.71,35.08,$3.56
+Kmart,San Antonio,TX,-98.65,29.44,$2.70
+Kmart,Schertz,TX,-98.28,29.6,$2.91
+Kmart,Helotes,TX,-98.68,29.56,$4.00
+Sears,Taylorsville,UT,-111.94,40.65,$3.36
