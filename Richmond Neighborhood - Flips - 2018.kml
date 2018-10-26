@@ -1,0 +1,4610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Richmond Neighborhood - Flips - 2018</name>
+    <description>Housing Appreciation in Richmond Neighborhoods from the 1990s onward</description>
+    <Style id="icon-1603-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1603-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1603-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1603-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-097138-1200-77-normal">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d387109</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-097138-1200-77-highlight">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d387109</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-097138-1200-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-097138-1200-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-097138-1200-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-097138-2201-77-normal">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>2.201</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d387109</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-097138-2201-77-highlight">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>3.3015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d387109</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-097138-2201-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-097138-2201-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-097138-2201-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-097138-2301-77-normal">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>2.301</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d387109</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-097138-2301-77-highlight">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>3.4515</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d387109</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-097138-2301-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-097138-2301-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-097138-2301-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-097138-2401-77-normal">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>2.401</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d387109</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-097138-2401-77-highlight">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>3.6015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d387109</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-097138-2401-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-097138-2401-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-097138-2401-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-097138-4001-82-normal">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>4.001</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>52387109</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-097138-4001-82-highlight">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>6.0015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>52387109</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-097138-4001-82">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-097138-4001-82-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-097138-4001-82-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-097138-4301-77-normal">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>4.301</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d387109</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-097138-4301-77-highlight">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>6.4515</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d387109</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-097138-4301-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-097138-4301-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-097138-4301-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-097138-4401-77-normal">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>4.401</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d387109</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-097138-4401-77-highlight">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>6.6015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d387109</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-097138-4401-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-097138-4401-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-097138-4401-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-097138-4473-77-normal">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>4.473</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d387109</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-097138-4473-77-highlight">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>6.7095</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d387109</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-097138-4473-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-097138-4473-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-097138-4473-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-097138-4601-77-normal">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>4.601</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d387109</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-097138-4601-77-highlight">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>6.9015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d387109</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-097138-4601-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-097138-4601-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-097138-4601-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-097138-4801-77-normal">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>4.801</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d387109</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-097138-4801-77-highlight">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>7.2015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d387109</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-097138-4801-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-097138-4801-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-097138-4801-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-097138-5201-77-normal">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>5.201</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d387109</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-097138-5201-77-highlight">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>7.8015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d387109</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-097138-5201-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-097138-5201-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-097138-5201-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-0F9D58-2101-77-normal">
+      <LineStyle>
+        <color>ff589d0f</color>
+        <width>2.101</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d589d0f</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-0F9D58-2101-77-highlight">
+      <LineStyle>
+        <color>ff589d0f</color>
+        <width>3.1515</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d589d0f</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-0F9D58-2101-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-0F9D58-2101-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-0F9D58-2101-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-0F9D58-2201-77-normal">
+      <LineStyle>
+        <color>ff589d0f</color>
+        <width>2.201</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d589d0f</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-0F9D58-2201-77-highlight">
+      <LineStyle>
+        <color>ff589d0f</color>
+        <width>3.3015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d589d0f</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-0F9D58-2201-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-0F9D58-2201-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-0F9D58-2201-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-0F9D58-2301-77-normal">
+      <LineStyle>
+        <color>ff589d0f</color>
+        <width>2.301</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d589d0f</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-0F9D58-2301-77-highlight">
+      <LineStyle>
+        <color>ff589d0f</color>
+        <width>3.4515</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d589d0f</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-0F9D58-2301-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-0F9D58-2301-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-0F9D58-2301-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-0F9D58-2485-77-normal">
+      <LineStyle>
+        <color>ff589d0f</color>
+        <width>2.485</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d589d0f</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-0F9D58-2485-77-highlight">
+      <LineStyle>
+        <color>ff589d0f</color>
+        <width>3.7275</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d589d0f</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-0F9D58-2485-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-0F9D58-2485-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-0F9D58-2485-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-0F9D58-2501-77-normal">
+      <LineStyle>
+        <color>ff589d0f</color>
+        <width>2.501</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d589d0f</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-0F9D58-2501-77-highlight">
+      <LineStyle>
+        <color>ff589d0f</color>
+        <width>3.7515</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d589d0f</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-0F9D58-2501-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-0F9D58-2501-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-0F9D58-2501-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-0F9D58-2601-77-normal">
+      <LineStyle>
+        <color>ff589d0f</color>
+        <width>2.601</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d589d0f</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-0F9D58-2601-77-highlight">
+      <LineStyle>
+        <color>ff589d0f</color>
+        <width>3.9015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d589d0f</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-0F9D58-2601-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-0F9D58-2601-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-0F9D58-2601-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-0F9D58-2684-77-normal">
+      <LineStyle>
+        <color>ff589d0f</color>
+        <width>2.684</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d589d0f</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-0F9D58-2684-77-highlight">
+      <LineStyle>
+        <color>ff589d0f</color>
+        <width>4.026</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d589d0f</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-0F9D58-2684-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-0F9D58-2684-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-0F9D58-2684-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-0F9D58-3001-77-normal">
+      <LineStyle>
+        <color>ff589d0f</color>
+        <width>3.001</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d589d0f</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-0F9D58-3001-77-highlight">
+      <LineStyle>
+        <color>ff589d0f</color>
+        <width>4.5015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d589d0f</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-0F9D58-3001-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-0F9D58-3001-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-0F9D58-3001-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-558B2F-1801-77-normal">
+      <LineStyle>
+        <color>ff2f8b55</color>
+        <width>1.801</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d2f8b55</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-558B2F-1801-77-highlight">
+      <LineStyle>
+        <color>ff2f8b55</color>
+        <width>2.7015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d2f8b55</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-558B2F-1801-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-558B2F-1801-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-558B2F-1801-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-558B2F-1901-77-normal">
+      <LineStyle>
+        <color>ff2f8b55</color>
+        <width>1.901</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d2f8b55</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-558B2F-1901-77-highlight">
+      <LineStyle>
+        <color>ff2f8b55</color>
+        <width>2.8515</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d2f8b55</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-558B2F-1901-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-558B2F-1901-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-558B2F-1901-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-558B2F-2684-77-normal">
+      <LineStyle>
+        <color>ff2f8b55</color>
+        <width>2.684</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d2f8b55</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-558B2F-2684-77-highlight">
+      <LineStyle>
+        <color>ff2f8b55</color>
+        <width>4.026</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d2f8b55</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-558B2F-2684-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-558B2F-2684-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-558B2F-2684-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-757575-1200-76-normal">
+      <LineStyle>
+        <color>ff757575</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c757575</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-757575-1200-76-highlight">
+      <LineStyle>
+        <color>ff757575</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c757575</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-757575-1200-76">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-757575-1200-76-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-757575-1200-76-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-7CB342-1690-77-normal">
+      <LineStyle>
+        <color>ff42b37c</color>
+        <width>1.69</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d42b37c</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-7CB342-1690-77-highlight">
+      <LineStyle>
+        <color>ff42b37c</color>
+        <width>2.535</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d42b37c</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-7CB342-1690-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-7CB342-1690-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-7CB342-1690-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-7CB342-2203-77-normal">
+      <LineStyle>
+        <color>ff42b37c</color>
+        <width>2.203</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d42b37c</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-7CB342-2203-77-highlight">
+      <LineStyle>
+        <color>ff42b37c</color>
+        <width>3.3045</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d42b37c</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-7CB342-2203-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-7CB342-2203-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-7CB342-2203-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-7CB342-2801-77-normal">
+      <LineStyle>
+        <color>ff42b37c</color>
+        <width>2.801</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d42b37c</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-7CB342-2801-77-highlight">
+      <LineStyle>
+        <color>ff42b37c</color>
+        <width>4.2015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d42b37c</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-7CB342-2801-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-7CB342-2801-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-7CB342-2801-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-7CB342-3201-77-normal">
+      <LineStyle>
+        <color>ff42b37c</color>
+        <width>3.201</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d42b37c</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-7CB342-3201-77-highlight">
+      <LineStyle>
+        <color>ff42b37c</color>
+        <width>4.8015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d42b37c</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-7CB342-3201-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-7CB342-3201-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-7CB342-3201-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-7CB342-3401-77-normal">
+      <LineStyle>
+        <color>ff42b37c</color>
+        <width>3.401</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d42b37c</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-7CB342-3401-77-highlight">
+      <LineStyle>
+        <color>ff42b37c</color>
+        <width>5.1015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d42b37c</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-7CB342-3401-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-7CB342-3401-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-7CB342-3401-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-AFB42B-1901-77-normal">
+      <LineStyle>
+        <color>ff2bb4af</color>
+        <width>1.901</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d2bb4af</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-AFB42B-1901-77-highlight">
+      <LineStyle>
+        <color>ff2bb4af</color>
+        <width>2.8515</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d2bb4af</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-AFB42B-1901-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-AFB42B-1901-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-AFB42B-1901-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>RVA Neighborhoods</name>
+      <Placemark>
+        <name>Oxford</name>
+        <description><![CDATA[Average Home $ - 2017: $286,000<br>%Δ13-18: 3.86%<br>%Δ96-18: 3.88%<br>Zillow Link: https://www.zillow.com/homes/for_sale/Oxford-Richmond-VA_rb/]]></description>
+        <styleUrl>#poly-558B2F-1801-77</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$286,000</value>
+          </Data>
+          <Data name="%Δ13-18">
+            <value>3.86%</value>
+          </Data>
+          <Data name="%Δ96-18">
+            <value>3.88%</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/homes/for_sale/Oxford-Richmond-VA_rb/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.5554085,37.5420593,0
+                -77.5537777,37.5409364,0
+                -77.5463963,37.5320544,0
+                -77.542963,37.5324288,0
+                -77.5352385,37.5363087,0
+                -77.5337791,37.536955,0
+                -77.5291872,37.5373293,0
+                -77.5294018,37.5386224,0
+                -77.5350237,37.5418211,0
+                -77.5475121,37.5456321,0
+                -77.5501728,37.5459384,0
+                -77.553134,37.5452238,0
+                -77.5554085,37.5420593,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Huguenot</name>
+        <description><![CDATA[Average Home $ - 2017: $279,000<br>%Δ13-18: 3.67%<br>%Δ96-18: 3.72%<br>Zillow Link: https://www.zillow.com/homes/for_sale/Huguenot-Richmond-VA_rb/]]></description>
+        <styleUrl>#poly-558B2F-1901-77</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$279,000</value>
+          </Data>
+          <Data name="%Δ13-18">
+            <value>3.67%</value>
+          </Data>
+          <Data name="%Δ96-18">
+            <value>3.72%</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/homes/for_sale/Huguenot-Richmond-VA_rb/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.5968647,37.5555331,0
+                -77.5965214,37.5518587,0
+                -77.5976372,37.5496812,0
+                -77.5970364,37.5482521,0
+                -77.597723,37.5466869,0
+                -77.6011562,37.5462106,0
+                -77.5981522,37.5428079,0
+                -77.5988388,37.5407662,0
+                -77.5970364,37.5392009,0
+                -77.5959206,37.5346409,0
+                -77.5925732,37.5340283,0
+                -77.5919723,37.5332796,0
+                -77.5880241,37.5333477,0
+                -77.5784969,37.5318503,0
+                -77.5648499,37.5357979,0
+                -77.5625324,37.5377036,0
+                -77.5633907,37.5431482,0
+                -77.5645065,37.5438968,0
+                -77.566309,37.5437607,0
+                -77.5672531,37.5431482,0
+                -77.5680256,37.5435565,0
+                -77.5675106,37.5443051,0
+                -77.5680256,37.5455981,0
+                -77.5681114,37.545394,0
+                -77.5728321,37.5446454,0
+                -77.5758362,37.545394,0
+                -77.5775528,37.5468911,0
+                -77.5768661,37.5504297,0
+                -77.5752354,37.5506338,0
+                -77.5742054,37.5560775,0
+                -77.571373,37.5558733,0
+                -77.5706863,37.556894,0
+                -77.5706863,37.5578466,0
+                -77.575922,37.5588672,0
+                -77.582531,37.5588672,0
+                -77.5887108,37.5574383,0
+                -77.5915432,37.5562135,0
+                -77.5968647,37.5555331,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Stratford Hills</name>
+        <description><![CDATA[Average Home $ - 2017: $261,000<br>%Δ13-18: 4.92%<br>%Δ96-18: 4.29%<br>Zillow Link: https://www.zillow.com/homes/Stratford-hills-Richmond-VA_rb/]]></description>
+        <styleUrl>#poly-7CB342-2203-77</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$261,000</value>
+          </Data>
+          <Data name="%Δ13-18">
+            <value>4.92%</value>
+          </Data>
+          <Data name="%Δ96-18">
+            <value>4.29%</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/homes/Stratford-hills-Richmond-VA_rb/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.5442934,37.5605682,0
+                -77.5450659,37.5561795,0
+                -77.550087,37.5502596,0
+                -77.552619,37.5462786,0
+                -77.5499153,37.5461766,0
+                -77.5437784,37.5448495,0
+                -77.53438,37.541685,0
+                -77.5300026,37.5390308,0
+                -77.5290585,37.5375675,0
+                -77.5200462,37.53818,0
+                -77.5190163,37.5378397,0
+                -77.511549,37.5488646,0
+                -77.5169563,37.550838,0
+                -77.5173426,37.5512803,0
+                -77.5198746,37.5513823,0
+                -77.5239941,37.5533559,0
+                -77.5248528,37.5542743,0
+                -77.5264835,37.5572342,0
+                -77.528758,37.5588672,0
+                -77.5306892,37.5594795,0
+                -77.5334787,37.5593094,0
+                -77.535882,37.5593094,0
+                -77.5400877,37.5600238,0
+                -77.5412035,37.56033,0
+                -77.5442934,37.5605682,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Piney Knolls</name>
+        <description><![CDATA[Average Home $ - 2017: $113,000<br>%Δ13-18: 9.43%<br>%Δ96-18: 3.96%<br>Zillow Link: https://www.zillow.com/homes/Piney-knolls-Richmond-VA_rb/]]></description>
+        <styleUrl>#poly-097138-5201-77</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$113,000</value>
+          </Data>
+          <Data name="%Δ13-18">
+            <value>9.43%</value>
+          </Data>
+          <Data name="%Δ96-18">
+            <value>3.96%</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/homes/Piney-knolls-Richmond-VA_rb/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.5042534,37.4821803,0
+                -77.5043392,37.481363,0
+                -77.503438,37.4798645,0
+                -77.5032234,37.4738023,0
+                -77.5017214,37.4706007,0
+                -77.4982882,37.4714862,0
+                -77.4950695,37.4725421,0
+                -77.4901342,37.4714862,0
+                -77.4830961,37.4701579,0
+                -77.4807787,37.4784001,0
+                -77.4875593,37.4803413,0
+                -77.4975586,37.4821122,0
+                -77.5023651,37.4834063,0
+                -77.5042534,37.4821803,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>South Garden</name>
+        <description><![CDATA[Average Home $ - 2017: $113,000<br>%Δ13-18: 10.64%<br>%Δ96-18: 3.87%<br>Zillow Link: https://www.zillow.com/homes/south-garden-Richmond-VA_rb/]]></description>
+        <styleUrl>#poly-0F9D58-2501-77</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$113,000</value>
+          </Data>
+          <Data name="%Δ13-18">
+            <value>10.64%</value>
+          </Data>
+          <Data name="%Δ96-18">
+            <value>3.87%</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/homes/south-garden-Richmond-VA_rb/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.5023651,37.4834063,0
+                -77.4975586,37.4821122,0
+                -77.4875593,37.4803413,0
+                -77.4807787,37.4784001,0
+                -77.4797916,37.4809203,0
+                -77.4861431,37.483236,0
+                -77.4853706,37.4860965,0
+                -77.4823666,37.4852793,0
+                -77.4811649,37.4881397,0
+                -77.4864864,37.4908639,0
+                -77.4884605,37.4924983,0
+                -77.4926662,37.4897742,0
+                -77.4954987,37.4872543,0
+                -77.5023651,37.4834063,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Cedarhurst</name>
+        <description><![CDATA[Average Home $ - 2017: $181,000<br>%Δ13-18: 5.76%<br>%Δ96-18: 4.66%<br>Zillow Link: https://www.zillow.com/homes/cedarhurst-Richmond-VA_rb/]]></description>
+        <styleUrl>#poly-0F9D58-2501-77</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$181,000</value>
+          </Data>
+          <Data name="%Δ13-18">
+            <value>5.76%</value>
+          </Data>
+          <Data name="%Δ96-18">
+            <value>4.66%</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/homes/cedarhurst-Richmond-VA_rb/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.5027514,37.529536,0
+                -77.5051975,37.5284129,0
+                -77.5042105,37.5271196,0
+                -77.5078583,37.525622,0
+                -77.5088024,37.5269154,0
+                -77.5146389,37.5243968,0
+                -77.5120211,37.5208229,0
+                -77.5094891,37.5202443,0
+                -77.507515,37.5197337,0
+                -77.5048971,37.5194274,0
+                -77.5021935,37.5185764,0
+                -77.4982023,37.5188487,0
+                -77.4943399,37.519972,0
+                -77.4957561,37.5249583,0
+                -77.4970865,37.525588,0
+                -77.5027514,37.529536,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Woodland Heights</name>
+        <description><![CDATA[Average Home $ - 2017: $255,000<br>%Δ13-18: 6.93%<br>%Δ96-18: 6.02%<br>Zillow Link: https://www.zillow.com/homes/woodland-heights-Richmond-VA_rb/]]></description>
+        <styleUrl>#poly-097138-2201-77</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$255,000</value>
+          </Data>
+          <Data name="%Δ13-18">
+            <value>6.93%</value>
+          </Data>
+          <Data name="%Δ96-18">
+            <value>6.02%</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/homes/woodland-heights-Richmond-VA_rb/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.4700069,37.5221844,0
+                -77.4683332,37.5194274,0
+                -77.4692774,37.5192572,0
+                -77.4703932,37.5199379,0
+                -77.4706507,37.5195975,0
+                -77.4701357,37.5183722,0
+                -77.4703503,37.5179637,0
+                -77.4694061,37.5166021,0
+                -77.4703074,37.5162958,0
+                -77.4703074,37.5154448,0
+                -77.4636555,37.5121428,0
+                -77.463913,37.5133683,0
+                -77.4636555,37.5143215,0
+                -77.4626255,37.5140661,0
+                -77.4612093,37.5146108,0
+                -77.4622822,37.5165341,0
+                -77.4588704,37.5178105,0
+                -77.4600077,37.5196826,0
+                -77.4517679,37.5232736,0
+                -77.4525833,37.5250434,0
+                -77.4521542,37.5269834,0
+                -77.4577761,37.5247031,0
+                -77.4607372,37.5245667,0
+                -77.464385,37.5245329,0
+                -77.4686337,37.5244308,0
+                -77.4704361,37.5249413,0
+                -77.4703074,37.5234778,0
+                -77.4664879,37.5235799,0
+                -77.4680328,37.5227971,0
+                -77.4683332,37.5217759,0
+                -77.4687195,37.5225588,0
+                -77.4700069,37.5221844,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Cottrell Farms</name>
+        <description><![CDATA[Average Home $ - 2017: $124,000<br>%Δ13-18: 8.29%<br>%Δ96-18: 3.70%<br>Zillow Link: https://www.zillow.com/homes/cottrell-farms-Richmond-VA_rb/]]></description>
+        <styleUrl>#poly-097138-4401-77</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$124,000</value>
+          </Data>
+          <Data name="%Δ13-18">
+            <value>8.29%</value>
+          </Data>
+          <Data name="%Δ96-18">
+            <value>3.70%</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/homes/cottrell-farms-Richmond-VA_rb/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.4864006,37.4588489,0
+                -77.4848557,37.4591214,0
+                -77.4830532,37.45735,0
+                -77.4825382,37.4579632,0
+                -77.4839115,37.4600752,0
+                -77.4821096,37.4613697,0
+                -77.4808216,37.4613016,0
+                -77.4803066,37.4593258,0
+                -77.4792767,37.4591214,0
+                -77.478075,37.4600752,0
+                -77.4760151,37.4608928,0
+                -77.4749851,37.4608247,0
+                -77.4747276,37.459939,0
+                -77.473526,37.460484,0
+                -77.4717236,37.462596,0
+                -77.467947,37.4634136,0
+                -77.4659729,37.4634136,0
+                -77.4667883,37.4640608,0
+                -77.4700499,37.4680801,0
+                -77.469449,37.4694085,0
+                -77.475071,37.4709413,0
+                -77.477088,37.4709413,0
+                -77.480135,37.4701579,0
+                -77.4830961,37.4701579,0
+                -77.4837399,37.4693404,0
+                -77.4876881,37.4672967,0
+                -77.488718,37.4665474,0
+                -77.4885464,37.465253,0
+                -77.4864006,37.4588489,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Forrest Hill Terrace</name>
+        <description><![CDATA[Average Home $ - 2017: $227,000<br>%Δ13-18: 5.33%<br>%Δ96-18: 5.63%<br>Zillow Link: https://www.zillow.com/homes/forrest-hill-terrace-Richmond-VA_rb/]]></description>
+        <styleUrl>#poly-0F9D58-2601-77</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$227,000</value>
+          </Data>
+          <Data name="%Δ13-18">
+            <value>5.33%</value>
+          </Data>
+          <Data name="%Δ96-18">
+            <value>5.63%</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/homes/forrest-hill-terrace-Richmond-VA_rb/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.4883747,37.5209591,0
+                -77.4891901,37.5192572,0
+                -77.4883318,37.5178956,0
+                -77.4888897,37.5151384,0
+                -77.4872589,37.514764,0
+                -77.4865293,37.5150023,0
+                -77.4856281,37.5147299,0
+                -77.4815941,37.5135045,0
+                -77.4797487,37.5136747,0
+                -77.4793196,37.5148661,0
+                -77.47859,37.514798,0
+                -77.4777746,37.5147299,0
+                -77.4767876,37.5149682,0
+                -77.4756289,37.514798,0
+                -77.4742985,37.5163639,0
+                -77.480607,37.5193933,0
+                -77.4883747,37.5209591,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Beaufont</name>
+        <description><![CDATA[Average Home $ - 2017: $128,000<br>%Δ13-18: 5.04%<br>%Δ96-18: 3.93%<br>Zillow Link: https://www.zillow.com/homes/beaufont-Richmond-VA_rb/]]></description>
+        <styleUrl>#poly-0F9D58-2201-77</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$128,000</value>
+          </Data>
+          <Data name="%Δ13-18">
+            <value>5.04%</value>
+          </Data>
+          <Data name="%Δ96-18">
+            <value>3.93%</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/homes/beaufont-Richmond-VA_rb/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.5048113,37.5059811,0
+                -77.5056696,37.5109514,0
+                -77.5078154,37.5129598,0
+                -77.5120212,37.5160575,0
+                -77.5177717,37.5093854,0
+                -77.5167418,37.5085684,0
+                -77.5167418,37.5077854,0
+                -77.5138664,37.5050959,0
+                -77.5048113,37.5059811,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Blackwell</name>
+        <description><![CDATA[Average Home $ - 2017: $125,000<br>%Δ13-18: 8.91%<br>%Δ96-18: 5.1%<br>Zillow Link: https://www.zillow.com/homes/blackwell-Richmond-VA_rb/]]></description>
+        <styleUrl>#poly-097138-4601-77</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$125,000</value>
+          </Data>
+          <Data name="%Δ13-18">
+            <value>8.91%</value>
+          </Data>
+          <Data name="%Δ96-18">
+            <value>5.1%</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/homes/blackwell-Richmond-VA_rb/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.4485063,37.5180658,0
+                -77.4476051,37.509045,0
+                -77.4361038,37.5162277,0
+                -77.4369621,37.517351,0
+                -77.43752,37.5194274,0
+                -77.4409103,37.5230013,0
+                -77.4485063,37.5180658,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Forest Hill</name>
+        <description><![CDATA[Average Home $ - 2017: $301,000<br>%Δ13-18: 5.43%<br>%Δ96-18: 4.96%<br>Zillow Link: https://www.zillow.com/homes/forrest-hill-Richmond-VA_rb/]]></description>
+        <styleUrl>#poly-0F9D58-2301-77</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$301,000</value>
+          </Data>
+          <Data name="%Δ13-18">
+            <value>5.43%</value>
+          </Data>
+          <Data name="%Δ96-18">
+            <value>4.96%</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/homes/forrest-hill-Richmond-VA_rb/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.4846411,37.530523,0
+                -77.4856281,37.5290936,0
+                -77.4883747,37.5209591,0
+                -77.4809074,37.5193933,0
+                -77.4772167,37.5177935,0
+                -77.476058,37.5192912,0
+                -77.4773884,37.5201081,0
+                -77.4757576,37.5220142,0
+                -77.4738693,37.5214696,0
+                -77.4732256,37.52181,0
+                -77.4728394,37.5225248,0
+                -77.471509,37.5223886,0
+                -77.4708652,37.5230353,0
+                -77.4704361,37.5249413,0
+                -77.4747705,37.5266431,0
+                -77.4780321,37.527562,0
+                -77.4794483,37.5276982,0
+                -77.4803066,37.5279024,0
+                -77.4805212,37.5283108,0
+                -77.481637,37.5283448,0
+                -77.4846411,37.530523,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Westover</name>
+        <description><![CDATA[Average Home $ - 2017: $131,000<br>%Δ13-18: 5.34%<br>%Δ96-18: 4.11%<br>Zillow Link: https://www.zillow.com/homes/westover-Richmond-VA_rb/]]></description>
+        <styleUrl>#poly-0F9D58-2684-77</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$131,000</value>
+          </Data>
+          <Data name="%Δ13-18">
+            <value>5.34%</value>
+          </Data>
+          <Data name="%Δ96-18">
+            <value>4.11%</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/homes/westover-Richmond-VA_rb/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.4947262,37.5196656,0
+                -77.4982023,37.5188487,0
+                -77.5021935,37.5185764,0
+                -77.5048971,37.5194274,0
+                -77.5081587,37.5197337,0
+                -77.5120212,37.5160575,0
+                -77.5056696,37.5109514,0
+                -77.5051975,37.5080577,0
+                -77.4978161,37.5092833,0
+                -77.4950266,37.5095216,0
+                -77.4916363,37.5093173,0
+                -77.4947262,37.5196656,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Windsor Farms</name>
+        <description><![CDATA[Average Home $ - 2017: $950,000<br>%Δ13-18: 2.81%<br>%Δ96-18: 4.68%<br>Zillow Link: https://www.zillow.com/homes/windsor-farms-Richmond-VA_rb/]]></description>
+        <styleUrl>#poly-AFB42B-1901-77</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$950,000</value>
+          </Data>
+          <Data name="%Δ13-18">
+            <value>2.81%</value>
+          </Data>
+          <Data name="%Δ96-18">
+            <value>4.68%</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/homes/windsor-farms-Richmond-VA_rb/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.5039101,37.5630855,0
+                -77.5091457,37.5562135,0
+                -77.5085449,37.5544444,0
+                -77.5087166,37.5524031,0
+                -77.5057125,37.5510421,0
+                -77.5033092,37.5501575,0
+                -77.5003052,37.5477758,0
+                -77.4983311,37.5452579,0
+                -77.5006485,37.5440329,0
+                -77.4984169,37.5411065,0
+                -77.4957561,37.5403579,0
+                -77.4916363,37.5421954,0
+                -77.4913788,37.5460064,0
+                -77.4915504,37.5487965,0
+                -77.4906921,37.553832,0
+                -77.4905205,37.5566218,0
+                -77.5039101,37.5630855,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Three Chopt</name>
+        <description><![CDATA[Average Home $ - 2017: $332,000<br>%Δ13-18: 5.43%<br>%Δ96-18: 5.41%<br>Zillow Link: https://www.zillow.com/homes/three-chopt-Richmond-VA_rb/]]></description>
+        <styleUrl>#poly-0F9D58-2201-77</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$332,000</value>
+          </Data>
+          <Data name="%Δ13-18">
+            <value>5.43%</value>
+          </Data>
+          <Data name="%Δ96-18">
+            <value>5.41%</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/homes/three-chopt-Richmond-VA_rb/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.5230503,37.5694807,0
+                -77.5200033,37.5691405,0
+                -77.5189304,37.5730182,0
+                -77.5178146,37.5760794,0
+                -77.5119781,37.5819973,0
+                -77.5135231,37.5827455,0
+                -77.5147247,37.5816572,0
+                -77.5154972,37.5819973,0
+                -77.5163555,37.580977,0
+                -77.5316334,37.5915874,0
+                -77.5319767,37.5900231,0
+                -77.53232,37.5881188,0
+                -77.5321484,37.5853302,0
+                -77.5313759,37.5830856,0
+                -77.5326633,37.5825414,0
+                -77.5303462,37.5810452,0
+                -77.5282001,37.5807049,0
+                -77.5274277,37.5798887,0
+                -77.533865,37.5788003,0
+                -77.5351524,37.5768276,0
+                -77.5372982,37.5756032,0
+                -77.536869,37.5740386,0
+                -77.5334358,37.5756032,0
+                -77.5316334,37.5751951,0
+                -77.5307751,37.5741066,0
+                -77.5322342,37.5731543,0
+                -77.53232,37.5719298,0
+                -77.5289726,37.5719298,0
+                -77.5247669,37.572406,0
+                -77.5230503,37.5694807,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Colonial Place</name>
+        <description><![CDATA[Average Home $ - 2017: $339,000<br>%Δ13-18: 5.02%<br>%Δ96-18: 5.25%<br>Zillow Link: https://www.zillow.com/homes/colonial-place-Richmond-VA_rb/]]></description>
+        <styleUrl>#poly-0F9D58-2684-77</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$339,000</value>
+          </Data>
+          <Data name="%Δ13-18">
+            <value>5.02%</value>
+          </Data>
+          <Data name="%Δ96-18">
+            <value>5.25%</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/homes/colonial-place-Richmond-VA_rb/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.5025368,37.5726781,0
+                -77.5056267,37.5684262,0
+                -77.4885893,37.5601599,0
+                -77.4846411,37.5637659,0
+                -77.5025368,37.5726781,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Westhampton</name>
+        <description><![CDATA[Average Home $ - 2017: $417,000<br>%Δ13-18: 5.21%<br>%Δ96-18: 5.03%<br>Zillow Link: https://www.zillow.com/homes/westhampton-Richmond-VA_rb/]]></description>
+        <styleUrl>#poly-0F9D58-2101-77</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$417,000</value>
+          </Data>
+          <Data name="%Δ13-18">
+            <value>5.21%</value>
+          </Data>
+          <Data name="%Δ96-18">
+            <value>5.03%</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/homes/westhampton-Richmond-VA_rb/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.5197029,37.5690725,0
+                -77.5134802,37.567882,0
+                -77.5077724,37.5755012,0
+                -77.5082445,37.5758753,0
+                -77.5061417,37.5785282,0
+                -77.5115919,37.5817592,0
+                -77.5175142,37.5759093,0
+                -77.5197029,37.5690725,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Malvern Gardens</name>
+        <description><![CDATA[Average Home $ - 2017: $464,000<br>%Δ13-18: 5.08%<br>%Δ96-18: 5.16%<br>Zillow Link: https://www.zillow.com/homes/malvern-gardens-Richmond-VA_rb/]]></description>
+        <styleUrl>#poly-0F9D58-2684-77</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$464,000</value>
+          </Data>
+          <Data name="%Δ13-18">
+            <value>5.08%</value>
+          </Data>
+          <Data name="%Δ96-18">
+            <value>5.16%</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/homes/malvern-gardens-Richmond-VA_rb/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.496314,37.5696508,0
+                -77.4846411,37.5637659,0
+                -77.4816799,37.5667934,0
+                -77.4932671,37.5736305,0
+                -77.496314,37.5696508,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Mary Munford</name>
+        <description><![CDATA[Average Home $ - 2017: $386,000<br>%Δ13-18: 5.23%<br>%Δ96-18: 5.33%<br>Zillow Link: https://www.zillow.com/homes/mary-munford-Richmond-VA_rb/]]></description>
+        <styleUrl>#poly-0F9D58-2684-77</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$386,000</value>
+          </Data>
+          <Data name="%Δ13-18">
+            <value>5.23%</value>
+          </Data>
+          <Data name="%Δ96-18">
+            <value>5.33%</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/homes/mary-munford-Richmond-VA_rb/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.507987,37.5652287,0
+                -77.4900484,37.5564177,0
+                -77.4895763,37.5584589,0
+                -77.4885893,37.5601599,0
+                -77.50597,37.5683242,0
+                -77.507987,37.5652287,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Willow Lawn</name>
+        <description><![CDATA[Average Home $ - 2017: $320,000<br>%Δ13-18: 5.04%<br>%Δ96-18: 5.3%<br>Zillow Link: https://www.zillow.com/homes/willow-lawn-Richmond-VA_rb/]]></description>
+        <styleUrl>#poly-0F9D58-2301-77</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$320,000</value>
+          </Data>
+          <Data name="%Δ13-18">
+            <value>5.04%</value>
+          </Data>
+          <Data name="%Δ96-18">
+            <value>5.3%</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/homes/willow-lawn-Richmond-VA_rb/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.5082445,37.5758753,0
+                -77.496314,37.5696508,0
+                -77.4932671,37.5736305,0
+                -77.5020647,37.5788683,0
+                -77.5030518,37.577712,0
+                -77.5055408,37.5773038,0
+                -77.5068283,37.5762154,0
+                -77.5080299,37.5762154,0
+                -77.5082445,37.5758753,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Wilton</name>
+        <description><![CDATA[Average Home $ - 2017: $103,000<br>%Δ13-18: 3.85%<br>%Δ96-18: 4.54%<br>Zillow Link: https://www.zillow.com/homes/wilton-Richmond-VA_rb/]]></description>
+        <styleUrl>#poly-558B2F-2684-77</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$103,000</value>
+          </Data>
+          <Data name="%Δ13-18">
+            <value>3.85%</value>
+          </Data>
+          <Data name="%Δ96-18">
+            <value>4.54%</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/homes/wilton-Richmond-VA_rb/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.5230503,37.5694807,0
+                -77.5278568,37.5644122,0
+                -77.5263119,37.563868,0
+                -77.5284147,37.5611465,0
+                -77.5268698,37.5601939,0
+                -77.5230932,37.555397,0
+                -77.5198746,37.5543764,0
+                -77.5142956,37.5521989,0
+                -77.5133514,37.5528113,0
+                -77.5112915,37.5526412,0
+                -77.5087166,37.5524031,0
+                -77.5085449,37.5544444,0
+                -77.5091457,37.5562135,0
+                -77.5039101,37.5630855,0
+                -77.5138235,37.5678139,0
+                -77.5200033,37.5691405,0
+                -77.5230503,37.5694807,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Ginter Park</name>
+        <description><![CDATA[Average Home $ - 2017: $334,000<br>%Δ13-18: 5.72<br>%Δ96-18: 5.61%<br>Zillow Link: https://www.zillow.com/homes/ginter-park-VA_rb/]]></description>
+        <styleUrl>#poly-0F9D58-2501-77</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$334,000</value>
+          </Data>
+          <Data name="%Δ13-18">
+            <value>5.72</value>
+          </Data>
+          <Data name="%Δ96-18">
+            <value>5.61%</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/homes/ginter-park-VA_rb/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.4492359,37.572508,0
+                -77.4454594,37.5722359,0
+                -77.4453735,37.5736305,0
+                -77.4444723,37.5735624,0
+                -77.4417686,37.5742087,0
+                -77.4381638,37.5756372,0
+                -77.4380779,37.5783922,0
+                -77.4387646,37.5831196,0
+                -77.4391079,37.5831876,0
+                -77.4393654,37.584718,0
+                -77.4450731,37.5882208,0
+                -77.447691,37.5883228,0
+                -77.4500513,37.6020263,0
+                -77.4546432,37.6013802,0
+                -77.4540424,37.596756,0
+                -77.4531841,37.596824,0
+                -77.4510813,37.5841399,0
+                -77.4492359,37.572508,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Bellevue</name>
+        <description><![CDATA[Average Home $ - 2017: $287,000<br>%Δ13-18: 4.73%<br>%Δ96-18: 5.22%<br>Zillow Link: https://www.zillow.com/homes/bellevue-VA_rb/]]></description>
+        <styleUrl>#poly-7CB342-2801-77</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$287,000</value>
+          </Data>
+          <Data name="%Δ13-18">
+            <value>4.73%</value>
+          </Data>
+          <Data name="%Δ96-18">
+            <value>5.22%</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/homes/bellevue-VA_rb/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.4655437,37.597232,0
+                -77.4676895,37.5937297,0
+                -77.4694061,37.5899891,0
+                -77.4649858,37.5903632,0
+                -77.4649,37.5878807,0
+                -77.4627113,37.5843439,0
+                -77.4512959,37.584514,0
+                -77.4534845,37.596824,0
+                -77.4660158,37.59645,0
+                -77.4655437,37.597232,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Northern Barton Heights</name>
+        <description><![CDATA[Average Home $ - 2017: $179,000<br>%Δ13-18: 12.27%<br>%Δ96-18: 6.89%<br>Zillow Link: https://www.zillow.com/northern-barton-heights-richmond-va/]]></description>
+        <styleUrl>#poly-097138-4301-77</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$179,000</value>
+          </Data>
+          <Data name="%Δ13-18">
+            <value>12.27%</value>
+          </Data>
+          <Data name="%Δ96-18">
+            <value>6.89%</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/northern-barton-heights-richmond-va/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.4450302,37.5722019,0
+                -77.443614,37.56397,0
+                -77.428894,37.5630515,0
+                -77.4294519,37.5655688,0
+                -77.4286795,37.5664533,0
+                -77.4278641,37.5671676,0
+                -77.4281216,37.5684942,0
+                -77.4282503,37.5695487,0
+                -77.4273062,37.5703311,0
+                -77.4271345,37.5711474,0
+                -77.4450302,37.5722019,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Rosedale</name>
+        <description><![CDATA[Average Home $ - 2017: $238,000<br>%Δ13-18: 6.68%<br>%Δ96-18: 5.59%<br>Zillow Link: https://www.zillow.com/rosedale-richmond-va/]]></description>
+        <styleUrl>#poly-097138-2401-77</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$238,000</value>
+          </Data>
+          <Data name="%Δ13-18">
+            <value>6.68%</value>
+          </Data>
+          <Data name="%Δ96-18">
+            <value>5.59%</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/rosedale-richmond-va/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.4694061,37.5899891,0
+                -77.4698782,37.5883228,0
+                -77.4700928,37.5866905,0
+                -77.4697495,37.5826775,0
+                -77.468462,37.5797526,0
+                -77.4670887,37.5790384,0
+                -77.4645567,37.5771678,0
+                -77.4629688,37.5762154,0
+                -77.4621964,37.5781881,0
+                -77.4627113,37.5843439,0
+                -77.4649,37.5878807,0
+                -77.4649858,37.5903632,0
+                -77.4694061,37.5899891,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>The Fan</name>
+        <description><![CDATA[Average Home $ - 2017: $430,000<br>%Δ13-18: 5.04%<br>%Δ96-18: 6.25%<br>Zillow Link: https://www.zillow.com/the-fan-richmond-va/]]></description>
+        <styleUrl>#poly-0F9D58-2201-77</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$430,000</value>
+          </Data>
+          <Data name="%Δ13-18">
+            <value>5.04%</value>
+          </Data>
+          <Data name="%Δ96-18">
+            <value>6.25%</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/the-fan-richmond-va/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.4703503,37.5624052,0
+                -77.4773884,37.5493409,0
+                -77.4747276,37.5485924,0
+                -77.4699211,37.5482521,0
+                -77.4565744,37.5435565,0
+                -77.455287,37.5455301,0
+                -77.455287,37.5485924,0
+                -77.4521971,37.5518927,0
+                -77.4703503,37.5624052,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>The Museum District</name>
+        <description><![CDATA[Average Home $ - 2017: $363,000<br>%Δ13-18: 4.94%<br>%Δ96-18: 6.08%<br>Zillow Link: https://www.zillow.com/the-museum-district-richmond-va/]]></description>
+        <styleUrl>#poly-7CB342-2801-77</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$363,000</value>
+          </Data>
+          <Data name="%Δ13-18">
+            <value>4.94%</value>
+          </Data>
+          <Data name="%Δ96-18">
+            <value>6.08%</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/the-museum-district-richmond-va/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.4757147,37.5527093,0
+                -77.4703503,37.5624052,0
+                -77.4786329,37.5691065,0
+                -77.4884176,37.5599218,0
+                -77.4870014,37.5593434,0
+                -77.487731,37.5583228,0
+                -77.4851561,37.5575404,0
+                -77.4860144,37.5561795,0
+                -77.4757147,37.5527093,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Randolph</name>
+        <description><![CDATA[Average Home $ - 2017: $177,000<br>%Δ13-18: 4.14%<br>%Δ96-18: 4.13%<br>Zillow Link: https://www.zillow.com/randolph-richmond-va/]]></description>
+        <styleUrl>#poly-7CB342-1690-77</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$177,000</value>
+          </Data>
+          <Data name="%Δ13-18">
+            <value>4.14%</value>
+          </Data>
+          <Data name="%Δ96-18">
+            <value>4.13%</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/randolph-richmond-va/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.4673891,37.546823,0
+                -77.4724531,37.5373633,0
+                -77.4632263,37.5372612,0
+                -77.4621534,37.5374314,0
+                -77.460866,37.5380779,0
+                -77.4595785,37.5397454,0
+                -77.4577761,37.5410385,0
+                -77.4567461,37.542944,0
+                -77.4673891,37.546823,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Byrd Park</name>
+        <description><![CDATA[Average Home $ - 2017: $265,000<br>%Δ13-18: 6.56%<br>%Δ96-18: 6.1%<br>Zillow Link: https://www.zillow.com/byrd-park-richmond-va/]]></description>
+        <styleUrl>#poly-0F9D58-2301-77</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$265,000</value>
+          </Data>
+          <Data name="%Δ13-18">
+            <value>6.56%</value>
+          </Data>
+          <Data name="%Δ96-18">
+            <value>6.1%</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/byrd-park-richmond-va/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.4778175,37.5487965,0
+                -77.4788904,37.5464828,0
+                -77.4801779,37.546823,0
+                -77.4812078,37.5463467,0
+                -77.4823666,37.542978,0
+                -77.481122,37.5424336,0
+                -77.4803925,37.5404259,0
+                -77.4803925,37.5395412,0
+                -77.4799204,37.5393711,0
+                -77.4803495,37.5384523,0
+                -77.4790621,37.538146,0
+                -77.4787188,37.5390308,0
+                -77.4724531,37.5373633,0
+                -77.4673891,37.546823,0
+                -77.470179,37.5476741,0
+                -77.4748997,37.5478782,0
+                -77.4778175,37.5487965,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Carillon</name>
+        <description><![CDATA[Average Home $ - 2017: $288,000<br>%Δ13-18: 6.45%<br>%Δ96-18: 5.45%<br>Zillow Link: https://www.zillow.com/carillon-richmond-va/]]></description>
+        <styleUrl>#poly-097138-2301-77</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$288,000</value>
+          </Data>
+          <Data name="%Δ13-18">
+            <value>6.45%</value>
+          </Data>
+          <Data name="%Δ96-18">
+            <value>5.45%</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/carillon-richmond-va/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.4778175,37.5487965,0
+                -77.4824095,37.5497832,0
+                -77.4843836,37.5493409,0
+                -77.4876886,37.5474018,0
+                -77.4905205,37.5453259,0
+                -77.4916363,37.5421954,0
+                -77.4948549,37.5400176,0
+                -77.4931812,37.5391329,0
+                -77.4922371,37.5377717,0
+                -77.4905205,37.5370911,0
+                -77.4903917,37.5367848,0
+                -77.485199,37.5347089,0
+                -77.4845552,37.5336199,0
+                -77.4834394,37.5330754,0
+                -77.4821091,37.5350152,0
+                -77.4819374,37.5364445,0
+                -77.4803925,37.5395412,0
+                -77.481122,37.5424336,0
+                -77.4823666,37.542978,0
+                -77.4812078,37.5463467,0
+                -77.4801779,37.546823,0
+                -77.4788904,37.5464828,0
+                -77.4778175,37.5487965,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Maymont</name>
+        <description><![CDATA[Average Home $ - 2017: $151,000<br>%Δ13-18: 5.23%<br>%Δ96-18: 5.93%<br>Zillow Link: https://www.zillow.com/maymont-richmond-va/]]></description>
+        <styleUrl>#poly-0F9D58-3001-77</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$151,000</value>
+          </Data>
+          <Data name="%Δ13-18">
+            <value>5.23%</value>
+          </Data>
+          <Data name="%Δ96-18">
+            <value>5.93%</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/maymont-richmond-va/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.4671745,37.5372953,0
+                -77.4724531,37.5373633,0
+                -77.4734402,37.5376015,0
+                -77.4752855,37.5314078,0
+                -77.4736118,37.5304549,0
+                -77.4705219,37.5299104,0
+                -77.4682045,37.5300465,0
+                -77.4671745,37.5372953,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Carver</name>
+        <description><![CDATA[Average Home $ - 2017: $191,000<br>%Δ13-18: 5.84%<br>%Δ96-18: 4.66%<br>Zillow Link: https://www.zillow.com/carver-richmond-va/]]></description>
+        <styleUrl>#poly-0F9D58-2485-77</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$191,000</value>
+          </Data>
+          <Data name="%Δ13-18">
+            <value>5.84%</value>
+          </Data>
+          <Data name="%Δ96-18">
+            <value>4.66%</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/carver-richmond-va/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.4560165,37.5542403,0
+                -77.4474335,37.5489666,0
+                -77.4437857,37.5527773,0
+                -77.4459313,37.5541042,0
+                -77.4474764,37.5559414,0
+                -77.4487638,37.5570981,0
+                -77.4518967,37.5587651,0
+                -77.4560165,37.5542403,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Oregon Hill</name>
+        <description><![CDATA[Average Home $ - 2017: $255,000<br>%Δ13-18: 4.79%<br>%Δ96-18: 6.46%<br>Zillow Link: https://www.zillow.com/oregon-hill-richmond-va/]]></description>
+        <styleUrl>#poly-7CB342-3401-77</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$255,000</value>
+          </Data>
+          <Data name="%Δ13-18">
+            <value>4.79%</value>
+          </Data>
+          <Data name="%Δ96-18">
+            <value>6.46%</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/oregon-hill-richmond-va/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.4545145,37.5428419,0
+                -77.4546432,37.5418892,0
+                -77.4536991,37.5416169,0
+                -77.4535275,37.5406982,0
+                -77.4529696,37.5403919,0
+                -77.453227,37.5346409,0
+                -77.4494076,37.5346068,0
+                -77.4491501,37.5421614,0
+                -77.4503517,37.5425357,0
+                -77.4527121,37.5426718,0
+                -77.4545145,37.5428419,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Church Hill</name>
+        <description><![CDATA[Average Home $ - 2017: $279,000<br>%Δ13-18: 9.22%<br>%Δ96-18: 6%<br>Zillow Link: https://www.zillow.com/church-hill-richmond-va/]]></description>
+        <styleUrl>#poly-097138-4801-77</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$279,000</value>
+          </Data>
+          <Data name="%Δ13-18">
+            <value>9.22%</value>
+          </Data>
+          <Data name="%Δ96-18">
+            <value>6%</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/church-hill-richmond-va/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.4234867,37.5357299,0
+                -77.4244308,37.5349471,0
+                -77.4223709,37.533654,0
+                -77.4247313,37.5312377,0
+                -77.4189806,37.5277662,0
+                -77.4185085,37.5258603,0
+                -77.4179935,37.525554,0
+                -77.4150753,37.5242947,0
+                -77.4141741,37.523716,0
+                -77.4134016,37.5247371,0
+                -77.4133587,37.5267112,0
+                -77.4125004,37.5278343,0
+                -77.4100971,37.5304209,0
+                -77.409153,37.5298763,0
+                -77.4083376,37.5307272,0
+                -77.4155903,37.5352534,0
+                -77.4217272,37.534743,0
+                -77.4234867,37.5357299,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Church Hill North</name>
+        <description><![CDATA[Average Home $ - 2017: $108,000<br>%Δ13-18: 11.58% *Data from 2014-18<br>%Δ96-18: No Info<br>Zillow Link: https://www.zillow.com/church-hill-north-richmond-va/]]></description>
+        <styleUrl>#poly-097138-4001-82</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$108,000</value>
+          </Data>
+          <Data name="%Δ13-18">
+            <value>11.58% *Data from 2014-18</value>
+          </Data>
+          <Data name="%Δ96-18">
+            <value>No Info</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/church-hill-north-richmond-va/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.4155849,37.5352619,0
+                -77.4083322,37.5307357,0
+                -77.405886,37.5333562,0
+                -77.4051994,37.5329478,0
+                -77.4044269,37.5332541,0
+                -77.4015087,37.5360787,0
+                -77.4023241,37.5368954,0
+                -77.4008215,37.5382223,0
+                -77.3991912,37.5393115,0
+                -77.3999637,37.5418977,0
+                -77.4106067,37.5404344,0
+                -77.4155849,37.5352619,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Chimborazo</name>
+        <description><![CDATA[Average Home $ - 2017: $202,000<br>%Δ13-18: 11.14%<br>%Δ96-18: 8.71%<br>Zillow Link: https://www.zillow.com/chimborazo-richmond-va/]]></description>
+        <styleUrl>#poly-097138-4473-77</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$202,000</value>
+          </Data>
+          <Data name="%Δ13-18">
+            <value>11.14%</value>
+          </Data>
+          <Data name="%Δ96-18">
+            <value>8.71%</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/chimborazo-richmond-va/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.4125004,37.5278343,0
+                -77.4133587,37.5267112,0
+                -77.4134016,37.5247371,0
+                -77.4141741,37.523716,0
+                -77.4118137,37.5224567,0
+                -77.4027157,37.5233416,0
+                -77.4038315,37.5240224,0
+                -77.403574,37.5249073,0
+                -77.4042606,37.5258943,0
+                -77.4007845,37.5301486,0
+                -77.4058914,37.5333477,0
+                -77.409153,37.5298763,0
+                -77.4100971,37.5304209,0
+                -77.4125004,37.5278343,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Westover Hills</name>
+        <description><![CDATA[Average Home $ - 2017: $328,000<br>%Δ13-18: 4.32%<br>%Δ96-18: 4.9%<br>Zillow Link: https://www.zillow.com/westover-hills-richmond-va/]]></description>
+        <styleUrl>#poly-7CB342-3201-77</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$328,000</value>
+          </Data>
+          <Data name="%Δ13-18">
+            <value>4.32%</value>
+          </Data>
+          <Data name="%Δ96-18">
+            <value>4.9%</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/westover-hills-richmond-va/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.4951553,37.5346409,0
+                -77.4966145,37.5330414,0
+                -77.4976015,37.5309314,0
+                -77.4975157,37.5293318,0
+                -77.4973011,37.5270515,0
+                -77.4970865,37.525588,0
+                -77.4932241,37.5235459,0
+                -77.4883747,37.5209591,0
+                -77.4859715,37.5278003,0
+                -77.4856281,37.5290936,0
+                -77.4846411,37.530523,0
+                -77.4859285,37.5309654,0
+                -77.4882031,37.5310335,0
+                -77.4891472,37.5306591,0
+                -77.4901342,37.5306251,0
+                -77.4914217,37.5307272,0
+                -77.491765,37.5314078,0
+                -77.4929237,37.5324288,0
+                -77.4935675,37.5330754,0
+                -77.4951553,37.5346409,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>JD</name>
+        <description><![CDATA[Average Home $ - 2017: 47,000<br>%Δ13-18: 7.03%<br>%Δ96-18: 1.96%<br>Zillow Link: https://www.zillow.com/homes/jeff-davis-Richmond-VA_rb/]]></description>
+        <styleUrl>#poly-097138-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>47,000</value>
+          </Data>
+          <Data name="%Δ13-18">
+            <value>7.03%</value>
+          </Data>
+          <Data name="%Δ96-18">
+            <value>1.96%</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/homes/jeff-davis-Richmond-VA_rb/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.445631,37.4892975,0
+                -77.4446011,37.4792856,0
+                -77.446146,37.4716565,0
+                -77.446146,37.463141,0
+                -77.4465752,37.4595302,0
+                -77.4488926,37.4567368,0
+                -77.4362755,37.4563961,0
+                -77.4368763,37.4627323,0
+                -77.4387646,37.4790812,0
+                -77.4391079,37.4830998,0
+                -77.4396229,37.4850069,0
+                -77.4411678,37.4850068,0
+                -77.4411678,37.4866414,0
+                -77.4437428,37.4865052,0
+                -77.4436569,37.4892975,0
+                -77.445631,37.4892975,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name><![CDATA[Competition's FLIPs]]></name>
+      <Placemark>
+        <name>3128 Grayland Ave, Richmond, VA 23221-3528</name>
+        <description><![CDATA[description: Bought for $80,000; Sold for $415,000<br>Link: https://www.zillow.com/homedetails/3128-Grayland-Ave-Richmond-VA-23221/12550715_zpid/<br>Renovators: Cobblestone<br>Year Sold: 2017]]></description>
+        <styleUrl>#icon-1603-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Bought for $80,000; Sold for $415,000</value>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homedetails/3128-Grayland-Ave-Richmond-VA-23221/12550715_zpid/</value>
+          </Data>
+          <Data name="Renovators">
+            <value>Cobblestone</value>
+          </Data>
+          <Data name="Year Sold">
+            <value>2017</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.4822593,37.5520671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>609 N 29th St</name>
+        <description><![CDATA[description: Bought for $125,000; Sold for $399,000<br>Link: https://www.zillow.com/homes/609-n-29th-richmond_rb/<br>Renovators: Cobblestone<br>Year Sold: 2016]]></description>
+        <styleUrl>#icon-1603-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Bought for $125,000; Sold for $399,000</value>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homes/609-n-29th-richmond_rb/</value>
+          </Data>
+          <Data name="Renovators">
+            <value>Cobblestone</value>
+          </Data>
+          <Data name="Year Sold">
+            <value>2016</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.4120659,37.5322969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>419 N 31st, Richmond, VA</name>
+        <description><![CDATA[description: Bought for $80,000; Sold for $350,000 <br>Link: https://www.zillow.com/homes/419-N-31st-richmond-va_rb/<br>Renovators: Cobblestone<br>Year Sold: 2016]]></description>
+        <styleUrl>#icon-1603-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Bought for $80,000; Sold for $350,000 </value>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homes/419-N-31st-richmond-va_rb/</value>
+          </Data>
+          <Data name="Renovators">
+            <value>Cobblestone</value>
+          </Data>
+          <Data name="Year Sold">
+            <value>2016</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.4117494,37.5297445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5111 W Franklin St</name>
+        <description><![CDATA[description: Bought for $155,000; Sold for $558,000  <br><br>Link: https://www.zillow.com/homes/5111-W-Franklin-St,-Richmond,-VA-23226_rb/<br><br>Renovators: Cobblestone<br>Year Sold: 2016]]></description>
+        <styleUrl>#icon-1603-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Bought for $155,000; Sold for $558,000  
+</value>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homes/5111-W-Franklin-St,-Richmond,-VA-23226_rb/
+</value>
+          </Data>
+          <Data name="Renovators">
+            <value>Cobblestone</value>
+          </Data>
+          <Data name="Year Sold">
+            <value>2016</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.5043768,37.5758881,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>615 N 29th St</name>
+        <description><![CDATA[description: Bought for $125,000; Sold for $380,000  <br>Link: https://www.zillow.com/homes/615-N-29th-St,-Richmond,-VA-23223_rb/<br>Renovators: Cobblestone<br>Year Sold: 2017]]></description>
+        <styleUrl>#icon-1603-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Bought for $125,000; Sold for $380,000  </value>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homes/615-N-29th-St,-Richmond,-VA-23223_rb/</value>
+          </Data>
+          <Data name="Renovators">
+            <value>Cobblestone</value>
+          </Data>
+          <Data name="Year Sold">
+            <value>2017</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.4119961,37.532348,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>607 N 29th St</name>
+        <description><![CDATA[description: Bought for $125,000; Sold for $399,000  <br>Link: https://www.zillow.com/homes/607-N-29th-St,-Richmond,-VA-23223_rb/<br>Renovators: Cobblestone<br>Year Sold: 2016]]></description>
+        <styleUrl>#icon-1603-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Bought for $125,000; Sold for $399,000  </value>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homes/607-N-29th-St,-Richmond,-VA-23223_rb/</value>
+          </Data>
+          <Data name="Renovators">
+            <value>Cobblestone</value>
+          </Data>
+          <Data name="Year Sold">
+            <value>2016</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.4120994,37.5322342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4410 W Grace St</name>
+        <description><![CDATA[description: Bought for $240,000; Sold for $470,000  <br>Link: https://www.zillow.com/homes/4410-W-Grace,-Richmond,-VA_rb/<br>Renovators: Cobblestone<br>Year Sold: 2016]]></description>
+        <styleUrl>#icon-1603-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Bought for $240,000; Sold for $470,000  </value>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homes/4410-W-Grace,-Richmond,-VA_rb/</value>
+          </Data>
+          <Data name="Renovators">
+            <value>Cobblestone</value>
+          </Data>
+          <Data name="Year Sold">
+            <value>2016</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.4902898,37.5734689,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3104 Fendall Ave</name>
+        <description><![CDATA[description: Bought for $78,000; Sold for $294,000  <br>Link: https://www.zillow.com/homes/3104-Fendall-Ave,-Richmond,-VA-23222_rb/<br>Renovators: Cobblestone<br>Year Sold: 2016]]></description>
+        <styleUrl>#icon-1603-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Bought for $78,000; Sold for $294,000  </value>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homes/3104-Fendall-Ave,-Richmond,-VA-23222_rb/</value>
+          </Data>
+          <Data name="Renovators">
+            <value>Cobblestone</value>
+          </Data>
+          <Data name="Year Sold">
+            <value>2016</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.4364203,37.5734901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2723 Edgewood Ave</name>
+        <description><![CDATA[description: Bought for $60,000; Sold for $255,000  <br>Link: https://www.zillow.com/homes/2723-Edgewood-Richmond,-VA-23222_rb/<br>Renovators: Cobblestone<br>Year Sold: 2016]]></description>
+        <styleUrl>#icon-1603-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Bought for $60,000; Sold for $255,000  </value>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homes/2723-Edgewood-Richmond,-VA-23222_rb/</value>
+          </Data>
+          <Data name="Renovators">
+            <value>Cobblestone</value>
+          </Data>
+          <Data name="Year Sold">
+            <value>2016</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.4386251,37.5685878,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2911 Moss Side Ave</name>
+        <description><![CDATA[description: Bought for $175,000; Sold for $321,000<br>Link: https://www.zillow.com/homedetails/2911-Moss-Side-Ave-Richmond-VA-23222/12528663_zpid/<br>Renovators: Cobblestone<br>Year Sold: 2017]]></description>
+        <styleUrl>#icon-1603-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Bought for $175,000; Sold for $321,000</value>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homedetails/2911-Moss-Side-Ave-Richmond-VA-23222/12528663_zpid/</value>
+          </Data>
+          <Data name="Renovators">
+            <value>Cobblestone</value>
+          </Data>
+          <Data name="Year Sold">
+            <value>2017</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.4407762,37.5712367,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1100 N. 35th St</name>
+        <description><![CDATA[description: Bought for $65,000; Sold for $235,000  <br>Link: https://www.zillow.com/homes/1100-N.-35t-RICHMOND-Virginia_rb/<br>Renovators: Cobblestone<br>Year Sold: 2015]]></description>
+        <styleUrl>#icon-1603-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Bought for $65,000; Sold for $235,000  </value>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homes/1100-N.-35t-RICHMOND-Virginia_rb/</value>
+          </Data>
+          <Data name="Renovators">
+            <value>Cobblestone</value>
+          </Data>
+          <Data name="Year Sold">
+            <value>2015</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.4027103,37.5327819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2818 Griffin Ave</name>
+        <description><![CDATA[description: Bought for $65,000; Sold for $185,000  <br>Link: https://www.zillow.com/homes/2818-Griffin-RICHMOND-Virginia_rb/<br>Renovators: Cobblestone<br>Year Sold: 2015]]></description>
+        <styleUrl>#icon-1603-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Bought for $65,000; Sold for $185,000  </value>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homes/2818-Griffin-RICHMOND-Virginia_rb/</value>
+          </Data>
+          <Data name="Renovators">
+            <value>Cobblestone</value>
+          </Data>
+          <Data name="Year Sold">
+            <value>2015</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.4378794,37.5696338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3124 Edgewood Ave</name>
+        <description><![CDATA[description: Bought for $49,500; Sold for $219,000  <br>Link: https://www.zillow.com/homes/3124-Edgewood-RICHMOND-Virginia_rb/<br>Renovators: Cobblestone<br>Year Sold: 2015]]></description>
+        <styleUrl>#icon-1603-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Bought for $49,500; Sold for $219,000  </value>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homes/3124-Edgewood-RICHMOND-Virginia_rb/</value>
+          </Data>
+          <Data name="Renovators">
+            <value>Cobblestone</value>
+          </Data>
+          <Data name="Year Sold">
+            <value>2015</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.4385902,37.5751079,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5219 Devonshire Rd</name>
+        <description><![CDATA[description: Bought for $165,000; Sold for $449,000  <br>Link: https://www.zillow.com/homes/5219-Devonshire-RICHMOND-Virginia_rb/<br>Renovators: Cobblestone<br>Year Sold: 2016]]></description>
+        <styleUrl>#icon-1603-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Bought for $165,000; Sold for $449,000  </value>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homes/5219-Devonshire-RICHMOND-Virginia_rb/</value>
+          </Data>
+          <Data name="Renovators">
+            <value>Cobblestone</value>
+          </Data>
+          <Data name="Year Sold">
+            <value>2016</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.4940073,37.5255242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3219 Parkwood Ave</name>
+        <description><![CDATA[description: Bought for $92,000; Sold for $355,000    <br>Link: https://www.zillow.com/homes/3219-Parkwood-RICHMOND-Virginia_rb/<br>Renovators: Cobblestone<br>Year Sold: 2015]]></description>
+        <styleUrl>#icon-1603-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Bought for $92,000; Sold for $355,000    </value>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homes/3219-Parkwood-RICHMOND-Virginia_rb/</value>
+          </Data>
+          <Data name="Renovators">
+            <value>Cobblestone</value>
+          </Data>
+          <Data name="Year Sold">
+            <value>2015</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.4834126,37.5530027,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3011 Fendall Ave</name>
+        <description><![CDATA[description: Bought for $37,000; Sold for $269,000  <br>Link: https://www.zillow.com/homes/3011-Fendall-RICHMOND-Virginia_rb/<br>Renovators: Cobblestone<br>Year Sold: 2015]]></description>
+        <styleUrl>#icon-1603-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Bought for $37,000; Sold for $269,000  </value>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homes/3011-Fendall-RICHMOND-Virginia_rb/</value>
+          </Data>
+          <Data name="Renovators">
+            <value>Cobblestone</value>
+          </Data>
+          <Data name="Year Sold">
+            <value>2015</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.4360126,37.5723762,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3212 Kenmore Rd</name>
+        <description><![CDATA[description: Bought for $174,000; Sold for $370,000  <br>Link: https://www.zillow.com/homes/3212-Kenmore-RICHMOND-Virginia_rb/<br>Renovators: Cobblestone<br>Year Sold: 2014]]></description>
+        <styleUrl>#icon-1603-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Bought for $174,000; Sold for $370,000  </value>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homes/3212-Kenmore-RICHMOND-Virginia_rb/</value>
+          </Data>
+          <Data name="Renovators">
+            <value>Cobblestone</value>
+          </Data>
+          <Data name="Year Sold">
+            <value>2014</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.5409138,37.5420465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4602 Coventry Rd</name>
+        <description><![CDATA[description: Bought for $586,00; Sold for $985,000            <br>Link: https://www.zillow.com/homes/4602-Coventry-RICHMOND-Virginia_rb/<br>Renovators: Cobblestone<br>Year Sold: 2016]]></description>
+        <styleUrl>#icon-1603-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Bought for $586,00; Sold for $985,000            </value>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homes/4602-Coventry-RICHMOND-Virginia_rb/</value>
+          </Data>
+          <Data name="Renovators">
+            <value>Cobblestone</value>
+          </Data>
+          <Data name="Year Sold">
+            <value>2016</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.502746,37.5617716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>521 N 33rd St</name>
+        <description><![CDATA[description: Bought for $125,000; Sold for $320,000    <br>Link: https://www.zillow.com/homes/for_sale/12522096_zpid/37.530697,-77.406763,37.528115,-77.411328_rect/17_zm/1_fr/<br>Renovators: Cobblestone<br>Year Sold: 2015]]></description>
+        <styleUrl>#icon-1603-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Bought for $125,000; Sold for $320,000    </value>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homes/for_sale/12522096_zpid/37.530697,-77.406763,37.528115,-77.411328_rect/17_zm/1_fr/</value>
+          </Data>
+          <Data name="Renovators">
+            <value>Cobblestone</value>
+          </Data>
+          <Data name="Year Sold">
+            <value>2015</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.4090832,37.5294637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2607 Northumberland </name>
+        <description><![CDATA[description: Bought for $70,000; Sold for $216,000       <br>Link: https://www.zillow.com/homes/2607-Northumberland-RICHMOND-Virginia_rb/<br>Renovators: Cobblestone<br>Year Sold: 2015]]></description>
+        <styleUrl>#icon-1603-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Bought for $70,000; Sold for $216,000       </value>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homes/2607-Northumberland-RICHMOND-Virginia_rb/</value>
+          </Data>
+          <Data name="Renovators">
+            <value>Cobblestone</value>
+          </Data>
+          <Data name="Year Sold">
+            <value>2015</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.4472243,37.566836,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4616 Patterson Ave</name>
+        <description><![CDATA[description: Bought for $121,000; Sold for $375,000   <br>Link: https://www.zillow.com/homes/4616-Patterson-RICHMOND-Virginia_rb/<br>Renovators: Cobblestone<br>Year Sold: 2015]]></description>
+        <styleUrl>#icon-1603-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Bought for $121,000; Sold for $375,000   </value>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homes/4616-Patterson-RICHMOND-Virginia_rb/</value>
+          </Data>
+          <Data name="Renovators">
+            <value>Cobblestone</value>
+          </Data>
+          <Data name="Year Sold">
+            <value>2015</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.4969471,37.5702163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5403 Dorchester </name>
+        <description><![CDATA[description: Bought for $150,000, Sold for $489,000    <br>Link: https://www.zillow.com/homes/5403-Dorchester-RICHMOND-Virginia_rb/<br>Renovators: Cobblestone<br>Year Sold: 2015]]></description>
+        <styleUrl>#icon-1603-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Bought for $150,000, Sold for $489,000    </value>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homes/5403-Dorchester-RICHMOND-Virginia_rb/</value>
+          </Data>
+          <Data name="Renovators">
+            <value>Cobblestone</value>
+          </Data>
+          <Data name="Year Sold">
+            <value>2015</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.4946833,37.5286171,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3225 Hanover</name>
+        <description><![CDATA[description: Bought for $140,000; Sold for $359,000    <br>Link: https://www.zillow.com/homes/3225-Hanover-RICHMOND-Virginia_rb/<br>Renovators: Cobblestone<br>Year Sold: 2015]]></description>
+        <styleUrl>#icon-1603-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Bought for $140,000; Sold for $359,000    </value>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homes/3225-Hanover-RICHMOND-Virginia_rb/</value>
+          </Data>
+          <Data name="Renovators">
+            <value>Cobblestone</value>
+          </Data>
+          <Data name="Year Sold">
+            <value>2015</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.4801779,37.5581485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2816 Hanes</name>
+        <description><![CDATA[description: Bought for $100,000; Sold for $330,000   <br>Link: https://www.zillow.com/homes/2816-Hanes-RICHMOND-Virginia_rb/<br>Renovators: Cobblestone<br>Year Sold: 2016]]></description>
+        <styleUrl>#icon-1603-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Bought for $100,000; Sold for $330,000   </value>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homes/2816-Hanes-RICHMOND-Virginia_rb/</value>
+          </Data>
+          <Data name="Renovators">
+            <value>Cobblestone</value>
+          </Data>
+          <Data name="Year Sold">
+            <value>2016</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.4355245,37.5694935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1222 N 38th</name>
+        <description><![CDATA[description: Bought for $53,950; Sold for $240,000    <br>Link: https://www.zillow.com/homes/1222-N-38th-RICHMOND-Virginia_rb/<br>Renovators: Streetcar<br>Year Sold: 2018]]></description>
+        <styleUrl>#icon-1603-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Bought for $53,950; Sold for $240,000    </value>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homes/1222-N-38th-RICHMOND-Virginia_rb/</value>
+          </Data>
+          <Data name="Renovators">
+            <value>Streetcar</value>
+          </Data>
+          <Data name="Year Sold">
+            <value>2018</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.3995185,37.5307825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4 N Robinson</name>
+        <description><![CDATA[description: Bought for $150,000; For Sale                            <br>Link: https://www.zillow.com/homes/4-N-robinson--RICHMOND-Virginia_rb/<br>Renovators: Cobblestone<br>Year Sold: 2018]]></description>
+        <styleUrl>#icon-1603-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Bought for $150,000; For Sale                            </value>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homes/4-N-robinson--RICHMOND-Virginia_rb/</value>
+          </Data>
+          <Data name="Renovators">
+            <value>Cobblestone</value>
+          </Data>
+          <Data name="Year Sold">
+            <value>2018</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.4731398,37.5524371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2416 HAWTHORNE</name>
+        <description><![CDATA[description: Bought for $90,000<br>Link: https://www.zillow.com/homes/2416-HAWTHORNE-RICHMOND-Virginia_rb/<br>Renovators: Cobblestone<br>Year Sold: 2018]]></description>
+        <styleUrl>#icon-1603-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Bought for $90,000</value>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homes/2416-HAWTHORNE-RICHMOND-Virginia_rb/</value>
+          </Data>
+          <Data name="Renovators">
+            <value>Cobblestone</value>
+          </Data>
+          <Data name="Year Sold">
+            <value>2018</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.4398857,37.5653222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>615 N 25th St</name>
+        <description><![CDATA[description: Bought for $55,000                                <br>Link: https://www.zillow.com/homes/615-N-25th-St-RICHMOND-Virginia_rb/<br>Renovators: Streetcar<br>Year Sold: 2018]]></description>
+        <styleUrl>#icon-1603-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Bought for $55,000                                </value>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homes/615-N-25th-St-RICHMOND-Virginia_rb/</value>
+          </Data>
+          <Data name="Renovators">
+            <value>Streetcar</value>
+          </Data>
+          <Data name="Year Sold">
+            <value>2018</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.415601,37.5346706,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3619 Hawthorne Ave</name>
+        <description><![CDATA[description: Bought for $200,000; Sold for $549,000<br>Link: https://www.zillow.com/homes/3619-hawthorne-RICHMOND-Virginia_rb/<br>Renovators: Cobblestone<br>Year Sold: 2017]]></description>
+        <styleUrl>#icon-1603-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Bought for $200,000; Sold for $549,000</value>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homes/3619-hawthorne-RICHMOND-Virginia_rb/</value>
+          </Data>
+          <Data name="Renovators">
+            <value>Cobblestone</value>
+          </Data>
+          <Data name="Year Sold">
+            <value>2017</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.4448962,37.58413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>112 W Lancaster Rd</name>
+        <description><![CDATA[description: Bought for $112,000; Sold for $425,000<br>Link: https://www.zillow.com/homes/112-w-lancaster-RICHMOND-Virginia_rb/<br>Renovators: Cobblestone<br>Year Sold: 2018]]></description>
+        <styleUrl>#icon-1603-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Bought for $112,000; Sold for $425,000</value>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homes/112-w-lancaster-RICHMOND-Virginia_rb/</value>
+          </Data>
+          <Data name="Renovators">
+            <value>Cobblestone</value>
+          </Data>
+          <Data name="Year Sold">
+            <value>2018</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.4360035,37.5663345,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3003 Moss Side Ave</name>
+        <description><![CDATA[description: Bought for $129,000; Pending at $399,000<br>Link: https://www.zillow.com/homes/3003-MOSS-SIDE-RICHMOND-Virginia_rb/<br>Renovators: Cobblestone<br>Year Sold: 2018]]></description>
+        <styleUrl>#icon-1603-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Bought for $129,000; Pending at $399,000</value>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homes/3003-MOSS-SIDE-RICHMOND-Virginia_rb/</value>
+          </Data>
+          <Data name="Renovators">
+            <value>Cobblestone</value>
+          </Data>
+          <Data name="Year Sold">
+            <value>2018</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.4407274,37.5721695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2114 E Clay St</name>
+        <description><![CDATA[description: Bought for $197,000; Sold for $455,000<br>Link: https://www.zillow.com/homes/2114-E-CLAY-RICHMOND-Virginia_rb/<br>Renovators: Cobblestone<br>Year Sold: 2018]]></description>
+        <styleUrl>#icon-1603-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Bought for $197,000; Sold for $455,000</value>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homes/2114-E-CLAY-RICHMOND-Virginia_rb/</value>
+          </Data>
+          <Data name="Renovators">
+            <value>Cobblestone</value>
+          </Data>
+          <Data name="Year Sold">
+            <value>2018</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.4197453,37.5352212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4715 Leonard Pkwy</name>
+        <description><![CDATA[description: Bought for $318,000; Listed for $640,000; Sold for $313,000<br>Link: https://www.zillow.com/homes/4715-LEONARD-RICHMOND-Virginia_rb/<br>Renovators: Cobblestone<br>Year Sold: 2018]]></description>
+        <styleUrl>#icon-1603-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Bought for $318,000; Listed for $640,000; Sold for $313,000</value>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homes/4715-LEONARD-RICHMOND-Virginia_rb/</value>
+          </Data>
+          <Data name="Renovators">
+            <value>Cobblestone</value>
+          </Data>
+          <Data name="Year Sold">
+            <value>2018</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.5015859,37.5706336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2624 Idlewood Ave</name>
+        <description><![CDATA[description: Bought for $330,000; Sold for $415,000<br>Link: https://www.zillow.com/homes/2624-IDLEWOOD-RICHMOND-Virginia_rb/<br>Renovators: Cobblestone<br>Year Sold: 2018]]></description>
+        <styleUrl>#icon-1603-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Bought for $330,000; Sold for $415,000</value>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homes/2624-IDLEWOOD-RICHMOND-Virginia_rb/</value>
+          </Data>
+          <Data name="Renovators">
+            <value>Cobblestone</value>
+          </Data>
+          <Data name="Year Sold">
+            <value>2018</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.476118,37.5489825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4110 Grove Ave</name>
+        <description><![CDATA[description: Bought for $235,000<br>Link: https://www.zillow.com/homes/4110-GROVE-RICHMOND-Virginia_rb/<br>Renovators: Cobblestone<br>Year Sold: ]]></description>
+        <styleUrl>#icon-1603-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Bought for $235,000</value>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homes/4110-GROVE-RICHMOND-Virginia_rb/</value>
+          </Data>
+          <Data name="Renovators">
+            <value>Cobblestone</value>
+          </Data>
+          <Data name="Year Sold">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.4932523,37.5627331,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2520 Stratford Rd</name>
+        <description><![CDATA[description: Bought LAND for $60,000<br>Link: https://www.zillow.com/homes/2520-STRATFORD-RICHMOND-Virginia_rb/<br>Renovators: Cobblestone<br>Year Sold: 2018]]></description>
+        <styleUrl>#icon-1603-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Bought LAND for $60,000</value>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homes/2520-STRATFORD-RICHMOND-Virginia_rb/</value>
+          </Data>
+          <Data name="Renovators">
+            <value>Cobblestone</value>
+          </Data>
+          <Data name="Year Sold">
+            <value>2018</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.5469224,37.5329531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3126 Grove Ave</name>
+        <description><![CDATA[description: Bought for $292,000; Sold for $799,000<br>Link: https://www.zillow.com/homes/3126-Grove-RICHMOND-Virginia_rb/<br>Renovators: RVA Realty Ventures<br>Year Sold: 2015]]></description>
+        <styleUrl>#icon-1603-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Bought for $292,000; Sold for $799,000</value>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homes/3126-Grove-RICHMOND-Virginia_rb/</value>
+          </Data>
+          <Data name="Renovators">
+            <value>RVA Realty Ventures</value>
+          </Data>
+          <Data name="Year Sold">
+            <value>2015</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.4791414,37.5568438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>200 Tilden St</name>
+        <description><![CDATA[description: Bought for $220,000; Sold for $300,000<br>Link: https://www.zillow.com/homes/200-Tilden-RICHMOND-Virginia_rb/<br>Renovators: Renew Properties<br>Year Sold: 2017]]></description>
+        <styleUrl>#icon-1603-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Bought for $220,000; Sold for $300,000</value>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homes/200-Tilden-RICHMOND-Virginia_rb/</value>
+          </Data>
+          <Data name="Renovators">
+            <value>Renew Properties</value>
+          </Data>
+          <Data name="Year Sold">
+            <value>2017</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.4810756,37.5579234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1702 Grove Ave</name>
+        <description><![CDATA[description: Bought in 2016 for $562,000; Listed for $879,000<br>Link: https://www.zillow.com/homes/1702-grove-RICHMOND-Virginia_rb/<br>Renovators: Renew Properties LLC<br>Year Sold: 2018]]></description>
+        <styleUrl>#icon-1603-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Bought in 2016 for $562,000; Listed for $879,000</value>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homes/1702-grove-RICHMOND-Virginia_rb/</value>
+          </Data>
+          <Data name="Renovators">
+            <value>Renew Properties LLC</value>
+          </Data>
+          <Data name="Year Sold">
+            <value>2018</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.460983,37.550446,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2205 Q St</name>
+        <description><![CDATA[description: Bought for $55,000<br>Link: https://www.zillow.com/homedetails/2205-Q-St-Richmond-VA-23223/12519717_zpid/<br>Renovators: Streetcar<br>Year Sold: 2018]]></description>
+        <styleUrl>#icon-1603-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Bought for $55,000</value>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homedetails/2205-Q-St-Richmond-VA-23223/12519717_zpid/</value>
+          </Data>
+          <Data name="Renovators">
+            <value>Streetcar</value>
+          </Data>
+          <Data name="Year Sold">
+            <value>2018</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.4147872,37.5399388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2313 Carrington St</name>
+        <description><![CDATA[description: Bought in 2017 for $145,000<br>Link: https://www.zillow.com/homes/2313-Carrington-RICHMOND-Virginia_rb/<br>Renovators: Nest Builders<br>Year Sold: ]]></description>
+        <styleUrl>#icon-1603-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Bought in 2017 for $145,000</value>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homes/2313-Carrington-RICHMOND-Virginia_rb/</value>
+          </Data>
+          <Data name="Renovators">
+            <value>Nest Builders</value>
+          </Data>
+          <Data name="Year Sold">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.4140471,37.5393374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2118 P St</name>
+        <description><![CDATA[description: <br>Link: https://www.zillow.com/homes/2118-P-RICHMOND-Virginia_rb/<br>Renovators: Nest Builders<br>Year Sold: ]]></description>
+        <styleUrl>#icon-1603-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homes/2118-P-RICHMOND-Virginia_rb/</value>
+          </Data>
+          <Data name="Renovators">
+            <value>Nest Builders</value>
+          </Data>
+          <Data name="Year Sold">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.415651,37.539654,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1205 N 32nd St</name>
+        <description><![CDATA[description: Land<br>Link: https://www.zillow.com/homes/1205-N-32ND-RICHMOND-Virginia_rb/<br>Renovators: Nest Builders<br>Year Sold: ]]></description>
+        <styleUrl>#icon-1603-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Land</value>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homes/1205-N-32ND-RICHMOND-Virginia_rb/</value>
+          </Data>
+          <Data name="Renovators">
+            <value>Nest Builders</value>
+          </Data>
+          <Data name="Year Sold">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.404522,37.535637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3214 Barton Ave</name>
+        <description><![CDATA[description: Land Bought in 2015 for $15,000<br>Link: https://www.zillow.com/homes/3214-BARTON-AVE-RICHMOND-Virginia_rb/<br>Renovators: Nest Builders<br>Year Sold: ]]></description>
+        <styleUrl>#icon-1603-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Land Bought in 2015 for $15,000</value>
+          </Data>
+          <Data name="Link">
+            <value>https://www.zillow.com/homes/3214-BARTON-AVE-RICHMOND-Virginia_rb/</value>
+          </Data>
+          <Data name="Renovators">
+            <value>Nest Builders</value>
+          </Data>
+          <Data name="Year Sold">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.431758,37.57589,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Discontinued RVA Neighborhoods</name>
+      <Placemark>
+        <name>Fulton</name>
+        <description><![CDATA[Average Home $ - 2017: $114,000<br>%Δ12-17: 5.47<br>%Δ96-17: 4.3<br>Zillow Link: https://www.zillow.com/homes/for_sale/Fulton-Richmond-VA_rb/]]></description>
+        <styleUrl>#poly-757575-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$114,000</value>
+          </Data>
+          <Data name="%Δ12-17">
+            <value>5.47</value>
+          </Data>
+          <Data name="%Δ96-17">
+            <value>4.3</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/homes/for_sale/Fulton-Richmond-VA_rb/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.411814,37.522457,0
+                -77.410784,37.518781,0
+                -77.409668,37.515717,0
+                -77.408295,37.514492,0
+                -77.408295,37.509998,0
+                -77.405291,37.509658,0
+                -77.4016,37.5085,0
+                -77.396708,37.505981,0
+                -77.393618,37.504551,0
+                -77.393961,37.514832,0
+                -77.387438,37.516738,0
+                -77.394733,37.525724,0
+                -77.396021,37.524839,0
+                -77.403059,37.523342,0
+                -77.406149,37.523137,0
+                -77.411814,37.522457,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Southampton</name>
+        <description><![CDATA[Average Home $ - 2017: $267,000<br>%Δ12-17: 4.8<br>%Δ96-17: 3.9<br>Zillow Link: https://www.zillow.com/homes/for_sale/Southampton-Richmond-VA_rb/]]></description>
+        <styleUrl>#poly-757575-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$267,000</value>
+          </Data>
+          <Data name="%Δ12-17">
+            <value>4.8</value>
+          </Data>
+          <Data name="%Δ96-17">
+            <value>3.9</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/homes/for_sale/Southampton-Richmond-VA_rb/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.559915,37.555669,0
+                -77.560859,37.550634,0
+                -77.560816,37.548899,0
+                -77.555709,37.545088,0
+                -77.553821,37.545292,0
+                -77.552619,37.546279,0
+                -77.550087,37.55026,0
+                -77.545066,37.55618,0
+                -77.544293,37.560568,0
+                -77.545838,37.560636,0
+                -77.547898,37.560228,0
+                -77.549615,37.559309,0
+                -77.551031,37.558731,0
+                -77.555194,37.55771,0
+                -77.556653,37.557234,0
+                -77.557383,37.556622,0
+                -77.559915,37.555669,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Bellemeade</name>
+        <description><![CDATA[Average Home $ - 2017: $61,000<br>%Δ12-17: 3.6<br>%Δ96-17: 2.1<br>Zillow Link: https://www.zillow.com/homes/Bellemeade-Richmond-VA_rb/]]></description>
+        <styleUrl>#poly-757575-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$61,000</value>
+          </Data>
+          <Data name="%Δ12-17">
+            <value>3.6</value>
+          </Data>
+          <Data name="%Δ96-17">
+            <value>2.1</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/homes/Bellemeade-Richmond-VA_rb/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.446661,37.502985,0
+                -77.445545,37.491,0
+                -77.436705,37.492022,0
+                -77.434559,37.494678,0
+                -77.432413,37.498423,0
+                -77.434301,37.498082,0
+                -77.434988,37.504075,0
+                -77.446661,37.502985,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Swansboro West</name>
+        <description><![CDATA[Average Home $ - 2017: $87,000<br>%Δ12-17: 3.4<br>%Δ96-17: 2.9<br>Zillow Link: https://www.zillow.com/homes/swansboro-west-Richmond-VA_rb/]]></description>
+        <styleUrl>#poly-757575-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$87,000</value>
+          </Data>
+          <Data name="%Δ12-17">
+            <value>3.4</value>
+          </Data>
+          <Data name="%Δ96-17">
+            <value>2.9</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/homes/swansboro-west-Richmond-VA_rb/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.463656,37.512143,0
+                -77.479878,37.509283,0
+                -77.48301,37.509147,0
+                -77.469835,37.504585,0
+                -77.463398,37.508705,0
+                -77.463656,37.512143,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Swansboro</name>
+        <description><![CDATA[Average Home $ - 2017: $107,000<br>%Δ12-17: 4.5<br>%Δ96-17: 3.8<br>Zillow Link: https://www.zillow.com/homes/swansboro-Richmond-VA_rb/]]></description>
+        <styleUrl>#poly-757575-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$107,000</value>
+          </Data>
+          <Data name="%Δ12-17">
+            <value>4.5</value>
+          </Data>
+          <Data name="%Δ96-17">
+            <value>3.8</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/homes/swansboro-Richmond-VA_rb/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.463656,37.514322,0
+                -77.463956,37.513675,0
+                -77.463398,37.512109,0
+                -77.463441,37.508705,0
+                -77.460587,37.5105,0
+                -77.457047,37.507258,0
+                -77.448185,37.512968,0
+                -77.448506,37.518066,0
+                -77.451768,37.523274,0
+                -77.4549,37.52181,0
+                -77.460008,37.519683,0
+                -77.45887,37.51781,0
+                -77.462282,37.516534,0
+                -77.461209,37.514611,0
+                -77.462626,37.514066,0
+                -77.463656,37.514322,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Walmsley</name>
+        <description><![CDATA[Average Home $ - 2017: $104,000<br>%Δ12-17: 3.7<br>%Δ96-17: 3.0<br>Zillow Link: https://www.zillow.com/homes/walmsley-Richmond-VA_rb/]]></description>
+        <styleUrl>#poly-757575-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$104,000</value>
+          </Data>
+          <Data name="%Δ12-17">
+            <value>3.7</value>
+          </Data>
+          <Data name="%Δ96-17">
+            <value>3.0</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/homes/walmsley-Richmond-VA_rb/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.45121,37.463584,0
+                -77.454042,37.466888,0
+                -77.454987,37.467467,0
+                -77.455716,37.468182,0
+                -77.457175,37.469034,0
+                -77.45975,37.469443,0
+                -77.460051,37.470056,0
+                -77.461124,37.470328,0
+                -77.462325,37.470601,0
+                -77.462926,37.472236,0
+                -77.46872,37.474075,0
+                -77.468634,37.470635,0
+                -77.469449,37.469408,0
+                -77.47005,37.46808,0
+                -77.469063,37.466275,0
+                -77.466788,37.464061,0
+                -77.466102,37.46389,0
+                -77.465072,37.462937,0
+                -77.464986,37.462289,0
+                -77.462196,37.461983,0
+                -77.46181,37.465185,0
+                -77.44945,37.460314,0
+                -77.45121,37.463584,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>British Camp Farms</name>
+        <description><![CDATA[Average Home $ - 2017: $113,000<br>%Δ12-17: 5.76<br>%Δ96-17: 3.33<br>Zillow Link: https://www.zillow.com/homes/british-camp-farms-Richmond-VA_rb/]]></description>
+        <styleUrl>#poly-757575-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$113,000</value>
+          </Data>
+          <Data name="%Δ12-17">
+            <value>5.76</value>
+          </Data>
+          <Data name="%Δ96-17">
+            <value>3.33</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/homes/british-camp-farms-Richmond-VA_rb/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.478375,37.482896,0
+                -77.48065,37.478196,0
+                -77.482796,37.470158,0
+                -77.481036,37.470056,0
+                -77.477088,37.470941,0
+                -77.475071,37.470941,0
+                -77.469449,37.469408,0
+                -77.468634,37.470635,0
+                -77.46872,37.474075,0
+                -77.469706,37.474415,0
+                -77.470994,37.475233,0
+                -77.471209,37.476731,0
+                -77.472238,37.478502,0
+                -77.4758,37.481329,0
+                -77.478375,37.482896,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Woodhaven</name>
+        <description><![CDATA[Average Home $ - 2017: $122,000<br>%Δ12-17: 5.18<br>%Δ96-17: 3.42<br>Zillow Link: https://www.zillow.com/homes/woodhaven-Richmond-VA_rb/]]></description>
+        <styleUrl>#poly-757575-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$122,000</value>
+          </Data>
+          <Data name="%Δ12-17">
+            <value>5.18</value>
+          </Data>
+          <Data name="%Δ96-17">
+            <value>3.42</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/homes/woodhaven-Richmond-VA_rb/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.497859,37.501181,0
+                -77.498589,37.496925,0
+                -77.497044,37.49655,0
+                -77.494512,37.495971,0
+                -77.493224,37.495801,0
+                -77.491164,37.494269,0
+                -77.489362,37.49369,0
+                -77.48846,37.492498,0
+                -77.478504,37.49924,0
+                -77.482324,37.502679,0
+                -77.497859,37.501181,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Hickory Hill</name>
+        <description><![CDATA[Average Home $ - 2017: $98,000<br>%Δ12-17: 5.2<br>%Δ96-17: 3.11<br>Zillow Link: https://www.zillow.com/homes/hickory-hill-Richmond-VA_rb/]]></description>
+        <styleUrl>#poly-757575-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$98,000</value>
+          </Data>
+          <Data name="%Δ12-17">
+            <value>5.2</value>
+          </Data>
+          <Data name="%Δ96-17">
+            <value>3.11</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/homes/hickory-hill-Richmond-VA_rb/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.471209,37.49243,0
+                -77.47344,37.488821,0
+                -77.475843,37.486437,0
+                -77.478332,37.483372,0
+                -77.4758,37.481329,0
+                -77.472238,37.478502,0
+                -77.470951,37.47622,0
+                -77.470994,37.475233,0
+                -77.46872,37.474075,0
+                -77.467947,37.476493,0
+                -77.468805,37.478264,0
+                -77.466917,37.483032,0
+                -77.465372,37.485075,0
+                -77.471209,37.49243,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Reedy Creek</name>
+        <description><![CDATA[Average Home $ - 2017: $131,000<br>%Δ12-17: 3.3<br>%Δ96-17: 4.1<br>Zillow Link: https://www.zillow.com/homes/reedy-creek-Richmond-VA_rb/]]></description>
+        <styleUrl>#poly-757575-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$131,000</value>
+          </Data>
+          <Data name="%Δ12-17">
+            <value>3.3</value>
+          </Data>
+          <Data name="%Δ96-17">
+            <value>4.1</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/homes/reedy-creek-Richmond-VA_rb/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.473998,37.516398,0
+                -77.474298,37.516364,0
+                -77.4758,37.514287,0
+                -77.474599,37.510305,0
+                -77.463656,37.512143,0
+                -77.470307,37.515445,0
+                -77.471037,37.515479,0
+                -77.473998,37.516398,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Broad Rock</name>
+        <description><![CDATA[Average Home $ - 2017: $71,000<br>%Δ12-17: 4.3<br>%Δ96-17: 3.1<br>Zillow Link: https://www.zillow.com/homes/broad-rock-Richmond-VA_rb/]]></description>
+        <styleUrl>#poly-757575-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$71,000</value>
+          </Data>
+          <Data name="%Δ12-17">
+            <value>4.3</value>
+          </Data>
+          <Data name="%Δ96-17">
+            <value>3.1</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/homes/broad-rock-Richmond-VA_rb/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.457047,37.507258,0
+                -77.460587,37.5105,0
+                -77.47138,37.503564,0
+                -77.458677,37.499546,0
+                -77.457776,37.500125,0
+                -77.461853,37.50404,0
+                -77.457047,37.507258,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>McGuire</name>
+        <description><![CDATA[Average Home $ - 2017: $107,000<br>%Δ12-17: 5.0<br>%Δ96-17: 3.3<br>Zillow Link: https://www.zillow.com/homes/mcguire-Richmond-VA_rb/]]></description>
+        <styleUrl>#poly-757575-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$107,000</value>
+          </Data>
+          <Data name="%Δ12-17">
+            <value>5.0</value>
+          </Data>
+          <Data name="%Δ96-17">
+            <value>3.3</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/homes/mcguire-Richmond-VA_rb/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.47138,37.503564,0
+                -77.478504,37.49924,0
+                -77.471209,37.49243,0
+                -77.470093,37.495835,0
+                -77.47035,37.497538,0
+                -77.470307,37.4989,0
+                -77.468677,37.50084,0
+                -77.467561,37.500227,0
+                -77.461252,37.49604,0
+                -77.458677,37.499546,0
+                -77.47138,37.503564,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>North Highland Park</name>
+        <description><![CDATA[Average Home $ - 2017: $101,000<br>%Δ12-17: 3.0<br>%Δ96-17: <br>Zillow Link: https://www.zillow.com/homes/north-highland-park-VA_rb/]]></description>
+        <styleUrl>#poly-757575-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$101,000</value>
+          </Data>
+          <Data name="%Δ12-17">
+            <value>3.0</value>
+          </Data>
+          <Data name="%Δ96-17">
+            <value/>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/homes/north-highland-park-VA_rb/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.423315,37.581997,0
+                -77.422113,37.5788,0
+                -77.420783,37.573868,0
+                -77.418036,37.569957,0
+                -77.416577,37.569685,0
+                -77.415204,37.570127,0
+                -77.410483,37.572644,0
+                -77.411814,37.574243,0
+                -77.413444,37.576998,0
+                -77.413359,37.579208,0
+                -77.413015,37.581249,0
+                -77.414303,37.581521,0
+                -77.419152,37.582099,0
+                -77.423315,37.581997,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Brookland Park</name>
+        <description><![CDATA[Average Home $ - 2017: $154,000<br>%Δ12-17: 5.85<br>%Δ96-17: <br>Zillow Link: https://www.zillow.com/brookland-park-richmond-va/]]></description>
+        <styleUrl>#poly-757575-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$154,000</value>
+          </Data>
+          <Data name="%Δ12-17">
+            <value>5.85</value>
+          </Data>
+          <Data name="%Δ96-17">
+            <value/>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/brookland-park-richmond-va/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.427134,37.571147,0
+                -77.427049,37.572814,0
+                -77.426319,37.573562,0
+                -77.425847,37.575127,0
+                -77.427821,37.575161,0
+                -77.428122,37.577168,0
+                -77.431769,37.579344,0
+                -77.434258,37.577406,0
+                -77.438164,37.575637,0
+                -77.438593,37.571862,0
+                -77.427134,37.571147,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Providence Park</name>
+        <description><![CDATA[Average Home $ - 2017: $88,000<br>%Δ12-17: 3.1<br>%Δ96-17: 3.3<br>Zillow Link: https://www.zillow.com/providence-park-richmond-va/]]></description>
+        <styleUrl>#poly-757575-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$88,000</value>
+          </Data>
+          <Data name="%Δ12-17">
+            <value>3.1</value>
+          </Data>
+          <Data name="%Δ96-17">
+            <value>3.3</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/providence-park-richmond-va/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.423315,37.581997,0
+                -77.430482,37.581487,0
+                -77.430868,37.580773,0
+                -77.430997,37.580195,0
+                -77.431769,37.579344,0
+                -77.428122,37.577168,0
+                -77.427821,37.575161,0
+                -77.425847,37.575127,0
+                -77.420912,37.574447,0
+                -77.422285,37.579106,0
+                -77.423315,37.581997,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Highland Park Southern Tip</name>
+        <description><![CDATA[Average Home $ - 2017: $125,000<br>%Δ12-17: 5.2<br>%Δ96-17: 4.2<br>Zillow Link: https://www.zillow.com/highland-park-southern-tip-richmond-va/]]></description>
+        <styleUrl>#poly-757575-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$125,000</value>
+          </Data>
+          <Data name="%Δ12-17">
+            <value>5.2</value>
+          </Data>
+          <Data name="%Δ96-17">
+            <value>4.2</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/highland-park-southern-tip-richmond-va/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.418036,37.569957,0
+                -77.418466,37.569889,0
+                -77.422371,37.565501,0
+                -77.428293,37.566725,0
+                -77.429452,37.565569,0
+                -77.428894,37.563052,0
+                -77.42928,37.562677,0
+                -77.42868,37.560568,0
+                -77.429237,37.557847,0
+                -77.42868,37.556554,0
+                -77.428937,37.555159,0
+                -77.428079,37.554989,0
+                -77.42619,37.553764,0
+                -77.42383,37.556622,0
+                -77.42177,37.558221,0
+                -77.420096,37.558901,0
+                -77.416492,37.56312,0
+                -77.415976,37.564786,0
+                -77.414818,37.565977,0
+                -77.41529,37.568528,0
+                -77.415633,37.569038,0
+                -77.418036,37.569957,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Carytown</name>
+        <description><![CDATA[Average Home $ - 2017: $297,000<br>%Δ12-17: 7.2<br>%Δ96-17: 6.5<br>Zillow Link: https://www.zillow.com/carytown-richmond-va/]]></description>
+        <styleUrl>#poly-757575-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$297,000</value>
+          </Data>
+          <Data name="%Δ12-17">
+            <value>7.2</value>
+          </Data>
+          <Data name="%Δ96-17">
+            <value>6.5</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/carytown-richmond-va/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.489533,37.557234,0
+                -77.489963,37.555771,0
+                -77.490006,37.554785,0
+                -77.48846,37.553594,0
+                -77.482967,37.551518,0
+                -77.48168,37.55043,0
+                -77.477818,37.548796,0
+                -77.475715,37.552709,0
+                -77.489533,37.557234,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Byrd Park</name>
+        <description><![CDATA[Average Home $ - 2017: $265,000<br>%Δ12-17: 5.2<br>%Δ96-17: 6.1<br>Zillow Link: https://www.zillow.com/byrd-park-richmond-va/]]></description>
+        <styleUrl>#poly-757575-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$265,000</value>
+          </Data>
+          <Data name="%Δ12-17">
+            <value>5.2</value>
+          </Data>
+          <Data name="%Δ96-17">
+            <value>6.1</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/byrd-park-richmond-va/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.477818,37.548796,0
+                -77.47889,37.546483,0
+                -77.480178,37.546823,0
+                -77.481208,37.546347,0
+                -77.482367,37.542978,0
+                -77.481122,37.542434,0
+                -77.480392,37.540426,0
+                -77.480392,37.539541,0
+                -77.47992,37.539371,0
+                -77.48035,37.538452,0
+                -77.479062,37.538146,0
+                -77.478719,37.539031,0
+                -77.472453,37.537363,0
+                -77.467389,37.546823,0
+                -77.470179,37.547674,0
+                -77.4749,37.547878,0
+                -77.477818,37.548796,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Jackson Ward</name>
+        <description><![CDATA[Average Home $ - 2017: $210,000<br>%Δ12-17: 5.0<br>%Δ96-17: 5.5<br>Zillow Link: https://www.zillow.com/jackson-ward-richmond-va/]]></description>
+        <styleUrl>#poly-757575-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$210,000</value>
+          </Data>
+          <Data name="%Δ12-17">
+            <value>5.0</value>
+          </Data>
+          <Data name="%Δ96-17">
+            <value>5.5</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/jackson-ward-richmond-va/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.447434,37.548967,0
+                -77.440116,37.544611,0
+                -77.435353,37.549664,0
+                -77.437906,37.550872,0
+                -77.439902,37.551331,0
+                -77.440996,37.551399,0
+                -77.44267,37.552182,0
+                -77.443786,37.552777,0
+                -77.447434,37.548967,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Eastview</name>
+        <description><![CDATA[Average Home $ - 2017: $75,000<br>%Δ12-17: 2.3<br>%Δ96-17: 2.5<br>Zillow Link: https://www.zillow.com/eastview-richmond-va/]]></description>
+        <styleUrl>#poly-757575-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$75,000</value>
+          </Data>
+          <Data name="%Δ12-17">
+            <value>2.3</value>
+          </Data>
+          <Data name="%Δ96-17">
+            <value>2.5</value>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/eastview-richmond-va/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.42619,37.553764,0
+                -77.42516,37.552811,0
+                -77.425289,37.550906,0
+                -77.424002,37.550668,0
+                -77.424388,37.548252,0
+                -77.423058,37.548218,0
+                -77.420783,37.548694,0
+                -77.417607,37.549307,0
+                -77.414346,37.548967,0
+                -77.409067,37.548082,0
+                -77.407522,37.551042,0
+                -77.41117,37.552199,0
+                -77.409196,37.555737,0
+                -77.410054,37.556112,0
+                -77.411213,37.55669,0
+                -77.412844,37.55754,0
+                -77.414303,37.558323,0
+                -77.415891,37.559003,0
+                -77.417951,37.559275,0
+                -77.420096,37.558901,0
+                -77.42177,37.558221,0
+                -77.42383,37.556622,0
+                -77.42619,37.553764,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Fairmount</name>
+        <description><![CDATA[Average Home $ - 2017: $119,000<br>%Δ12-17: 5.2<br>%Δ96-17: <br>Zillow Link: https://www.zillow.com/fairmount-richmond-va/]]></description>
+        <styleUrl>#poly-757575-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$119,000</value>
+          </Data>
+          <Data name="%Δ12-17">
+            <value>5.2</value>
+          </Data>
+          <Data name="%Δ96-17">
+            <value/>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/fairmount-richmond-va/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.411685,37.545088,0
+                -77.413359,37.543454,0
+                -77.416577,37.545462,0
+                -77.416878,37.544237,0
+                -77.420011,37.541004,0
+                -77.420054,37.539337,0
+                -77.412286,37.539405,0
+                -77.411503,37.539524,0
+                -77.408166,37.542944,0
+                -77.411685,37.545088,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Oakwood</name>
+        <description><![CDATA[Average Home $ - 2017: $88,000<br>%Δ12-17: 1.7<br>%Δ96-17: <br>Zillow Link: https://www.zillow.com/oakwood-richmond-va/]]></description>
+        <styleUrl>#poly-757575-1200-76</styleUrl>
+        <ExtendedData>
+          <Data name="Average Home $ - 2017">
+            <value>$88,000</value>
+          </Data>
+          <Data name="%Δ12-17">
+            <value>1.7</value>
+          </Data>
+          <Data name="%Δ96-17">
+            <value/>
+          </Data>
+          <Data name="Zillow Link">
+            <value>https://www.zillow.com/oakwood-richmond-va/</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -77.404904,37.532871,0
+                -77.400784,37.530149,0
+                -77.39954,37.529808,0
+                -77.393146,37.53151,0
+                -77.394218,37.532463,0
+                -77.396321,37.534607,0
+                -77.397437,37.534607,0
+                -77.397394,37.535015,0
+                -77.39924,37.53624,0
+                -77.401085,37.5359,0
+                -77.401514,37.53607,0
+                -77.404904,37.532871,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
